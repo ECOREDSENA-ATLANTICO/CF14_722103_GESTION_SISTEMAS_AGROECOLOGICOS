@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-atlantico.github.io/CF20_722103_GESTION_SISTEMAS_AGROECOLOGICOS/](https://ecoredsena-atlantico.github.io/CF20_722103_GESTION_SISTEMAS_AGROECOLOGICOS/)
+[https://ecoredsena-atlantico.github.io/CF14_722103_GESTION_SISTEMAS_AGROECOLOGICOS/](https://ecoredsena-atlantico.github.io/CF14_722103_GESTION_SISTEMAS_AGROECOLOGICOS/)
 
 #
 
