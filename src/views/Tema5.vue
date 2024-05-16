@@ -10,12 +10,86 @@
         .row.align-items-center.mb-4
           .col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema2/img_7.png', alt='')
+              img.img-t.m-auto(src='@/assets/curso/images/tema5/img_1.png', alt='')
           .col-lg-7(data-aos="fade-right")
             p En las producciones pecuarias es fundamental contar con los equipos necesarios para facilitar las tareas y actividades diarias, los equipos como básculas, comederos, bebederos, jeringas, los biberones, las pipetas, los termómetros, las pinzas, entre otros. Todos estos se van adquiriendo durante el proceso de la implementación, pero van a cumplir una función en pro a la eficacia y rentabilidad del producto final. Cabe resaltar que la necesidad depende de la producción en la que se va a implementar, pues si es una ganadería de leche, la necesidad de equipos va relacionada con el ordeño y esta es diferente para una de pollos de engorde. Estos equipos e instrumentos se describen en la siguiente galería: 
         
-        //- Slider
-        
+        SlyderF(columnas="col-lg-6 col-xl-3").mb-5
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_2.png' alt='AvatarTop')
+            p.p-4 
+              span.text-bold Básculas: 
+              | es una herramienta necesaria en toda producción pecuaria, para poder realizar índices de conversiones adecuadas.
+
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_3.png' alt='AvatarTop')
+            p.p-4 
+              span.text-bold Comederos: 
+              | son equipos útiles para el manejo de la alimentación y se adecuan de acuerdo a la etapa del animal.  
+
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_4.png' alt='AvatarTop')
+            p.p-4 
+              span.text-bold Bebederos: 
+              | son equipos útiles para el manejo de la alimentación y se adecuan de acuerdo con la etapa del animal.
+
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_5.png' alt='AvatarTop')
+            p.p-4 
+              span.text-bold Jeringas: 
+              | las jeringas son algo indispensable en el instrumental de una producción pecuaria y existen de acuerdo al volumen a dosificar  desde 1 ml hasta 50 ml.
+
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_7.png' alt='AvatarTop')
+            p.p-4 
+              span.text-bold Biberones: 
+              | es muy utilizado en las salas de maternidad de las ganaderías intensivas cuando se utilizan amamantamiento restringido  y en caso especiales cuando la madre no puede alimentar el animal.
+    
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_8.png' alt='AvatarTop')
+            p.p-4 
+              span.text-bold Pipetas: 
+              br 
+              | tiene varia funcionalidades especialmente para toma de muestras de agua, leche entre otros.
+
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_9.png' alt='AvatarTop')
+            p.p-4 
+              span.text-bold Termómetro:
+              br 
+              | elemento indispensable para la toma de temperatura corporal en caso de animales enfermos, en campo hay termómetros digitales con infrarrojo o rectales.
+
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_10.png' alt='AvatarTop')
+            p.p-4 
+              span.text-bold Pinzas: 
+              br 
+              | instrumento quirúrgico necesario para primeros auxilios o intervenciones quirúrgicas.
+
+          .tarjeta.jumbotron 
+            .row.justify-content-center
+              .col-12
+                img(src='@/assets/curso/images/tema5/img_11.png' alt='AvatarTop')
+            p.p-4.text-small 
+              span.text-bold Otros: 
+              | de acuerdo con la actividad se utilizan equipos y herramientas necesarios para la ejecución de las actividades diarias, un ejemplo en los programas de reproducción se necesitará guantes de palpar, pajillas de inseminar, pistola de inseminar, tijeras. En la parte de sanidad son necesarios los implementos necesarios como fonendo, guantes desechables, tijeras, agujas hipodérmicas, medicamentos entre otros.
+
         p Es importante tener en cuenta que depende de la inversión y proyección del proyecto,  si se va a establecer una producción intensiva, los equipos, herramientas e insumos son mayores y de última tecnología, lo cual incrementará el valor de adquisición de los productos y estos están muy relacionados con las buenas prácticas ganaderas.
         
         .row.justify-content-center.align-items-center.mb-5
@@ -26,12 +100,14 @@
           
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img.w-50(src='@/assets/curso/images/tema2/img_1.png', alt='Imagen Decorativa')
+              img(src='@/assets/curso/images/tema5/img_6.svg', alt='Imagen Decorativa')
         
-        .row.justify-content-center.align-items-center.mb-4
-          .cajon.color-acento-contenido.g_18.mb-4.mb-lg-0.col-9
-            p.m-4.mt-4 Con respecto a los insumos necesarios para la producción  pecuarias y de acuerdo con la demanda de alimentos, es necesario e indispensable la nutrición y reproducción de los animales, un ejemplo común son los granos utilizados para suplementación animal, otro insumo necesario en la parte agrícola son los fertilizantes que sirven para garantizar la seguridad alimentaria.
-
+        .row.justify-content-center.align-items-center.mb-3
+          .col-lg-9.mb-3.mb-lg-0
+            .bloque-texto-b.color-acento-contenido.p-4
+              .bloque-texto-b__texto
+                p.mb-0 Con respecto a los insumos necesarios para la producción  pecuarias y de acuerdo con la demanda de alimentos, es necesario e indispensable la nutrición y reproducción de los animales, un ejemplo común son los granos utilizados para suplementación animal, otro insumo necesario en la parte agrícola son los fertilizantes que sirven para garantizar la seguridad alimentaria.
+                
 </template>
 
 <script>

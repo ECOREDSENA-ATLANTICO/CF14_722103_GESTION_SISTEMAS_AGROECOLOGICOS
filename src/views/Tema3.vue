@@ -70,7 +70,7 @@
                   th Ave /m2
               tbody
                 tr
-                  td.colspan(2) Livianas
+                  td Livianas
                   td 6 Meses
                   td 6 Meses
                   td 6 Meses
