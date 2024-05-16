@@ -22,9 +22,9 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
-          .bloque-texto-g.bg_grad-01.p-sm-4
+          .bloque-texto-g.bg_grad-01
             .bloque-texto-g__texto.p-4.izquierda_20.color-transparente(
-              :style="{'width': '50% !important'}"
+              :style="{'width': '100% !important'}"
             )
               p.mb-0 Las recomendaciones para implementar un sistema agroecológico es utilizar predios semi o extensivos, por lo general se evita que se realice de una manera intensiva,  este predio debe tener sus alojamientos construidos en materiales no tóxicos y  con la normatividad de manejo y bienestar animal. 
 
@@ -33,7 +33,7 @@
               <br><br> Para el manejo animal se prohíbe el destete precoz, las mutilaciones no se permiten y sólo  si es recomendado por un médico veterinario, el manejo reproductivo solo se permite de manera natural y sin ningún método de inducción de celo.
 
             .bloque-texto(
-              :style="{'background-image': `url(${require('@/assets/curso/images/tema1/img_3.png')})`, 'left':'50%', 'width': '50% !important'}"
+              :style="{'background-image': `url(${require('@/assets/curso/images/tema1/img_3.png')})`, 'left':'30%', 'width': '70% !important'}"
             )
 
       .row.justify-content-center.align-items-center.mb-4
