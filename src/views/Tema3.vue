@@ -64,27 +64,41 @@
             table
               thead
                 tr.jumbotron-14
-                  th Especie
-                  th Edad
+                  th Tipo de ave
+                  th Sistema
+                  th Edad en semanas
+                  th Ave /m2
               tbody
                 tr
-                  td.jumbotron-20 Bovinos, Bufalinos y potros
-                  td.jumbotron-14 6 Meses
+                  td.colspan(2) Livianas
+                  td 6 Meses
+                  td 6 Meses
+                  td 6 Meses
                 tr
-                  td.jumbotron-20 Ponedoras
-                  td.jumbotron-14 No superar 18 semanas
+                  td Ponedoras
+                  td No superar 18 semanas
+                  td No superar 18 semanas
+                  td No superar 18 semanas
                 tr
-                  td.jumbotron-20 Pollos de Engorde
-                  td.jumbotron-14 Menor a 3 días
+                  td Pollos de Engorde
+                  td Menor a 3 días
+                  td Menor a 3 días
+                  td Menor a 3 días
                 tr
-                  td.jumbotron-20 Cerdos
-                  td.jumbotron-14 Reproductor (6 meses) Engorde (40 días)
+                  td Cerdos
+                  td Reproductor (6 meses) Engorde (40 días)
+                  td Reproductor (6 meses) Engorde (40 días)
+                  td Reproductor (6 meses) Engorde (40 días)
                 tr
-                  td.jumbotron-20 Ovinos y caprinos
-                  td.jumbotron-14 2 meses
+                  td Ovinos y caprinos
+                  td 2 meses
+                  td 2 meses
+                  td 2 meses
                 tr
-                  td.jumbotron-20 Conejos
-                  td.jumbotron-14 1 mes
+                  td Conejos
+                  td 1 mes
+                  td 1 mes
+                  td 1 mes
 
         p En porcinos, espacio requerido por cerdo, es de acuerdo con las etapas del cerdo en las instalaciones son:         
         
