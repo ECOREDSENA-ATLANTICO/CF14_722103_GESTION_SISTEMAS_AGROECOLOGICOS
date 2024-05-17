@@ -96,6 +96,12 @@ export default {
         titulo: 'Nutrición y alimentación',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Materias primas en la alimentación agroecológica',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
