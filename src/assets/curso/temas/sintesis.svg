@@ -1,239 +1,125 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1835.196" height="666.5" viewBox="0 0 1835.196 666.5">
-  <rect id="Rectángulo_361666" data-name="Rectángulo 361666" width="864" height="72" rx="36" transform="translate(333)" fill="#0b481e"/>
-  <text id="Monitoreo_de_la_propagación_vegetal" data-name="Monitoreo de la propagación vegetal" transform="translate(752.664 42.04)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-164.956" y="0">Monitoreo de la propagación vegetal</tspan></text>
-  <rect id="Rectángulo_361667" data-name="Rectángulo 361667" width="193" height="50" rx="25" transform="translate(0 133)" fill="#cee284"/>
-  <text id="Normatividad_ambiental" data-name="Normatividad
-ambiental" transform="translate(97 152)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-48.082" y="0">Normatividad</tspan><tspan x="-35.352" y="20">ambiental</tspan></text>
-  <g id="Grupo_1084036" data-name="Grupo 1084036" transform="translate(-414.333 -884.838)">
-    <line id="Línea_154" data-name="Línea 154" y2="58.005" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10412.005)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1028.999" height="688.329" viewBox="0 0 1028.999 688.329">
+  <g id="Grupo_1014277" data-name="Grupo 1014277" transform="translate(-306.001 -408.836)">
+    <g id="Grupo_1005351" data-name="Grupo 1005351" transform="translate(-15.249 -208.164)">
+      <rect id="Rectángulo_34091" data-name="Rectángulo 34091" width="295.501" height="49" rx="24.5" transform="translate(662.249 617)" fill="#0b481e"/>
+      <text id="Ganadería_agroecológica_" data-name="Ganadería agroecológica
+" transform="translate(813.999 646.5)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-112.49" y="0">Ganadería agroecológica</tspan><tspan x="0" y="27"></tspan></text>
+    </g>
+    <g id="Grupo_1004731" data-name="Grupo 1004731" transform="translate(-4.333 -294.906)">
+      <line id="Línea_154" data-name="Línea 154" x1="0.167" y2="60.667" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10092.409)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1005356" data-name="Grupo 1005356" transform="translate(-30.667 56.295)">
+      <rect id="Rectángulo_347812" data-name="Rectángulo 347812" width="190" height="55" rx="27.5" transform="translate(600 817.499)" fill="#cee284"/>
+      <text id="Monogástrico_" data-name="Monogástrico
+" transform="translate(695 848.671)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-50.078" y="0">Monogástrico</tspan><tspan x="0" y="24"></tspan></text>
+    </g>
+    <g id="Grupo_1014272" data-name="Grupo 1014272" transform="translate(265.167 56.295)">
+      <rect id="Rectángulo_347812-2" data-name="Rectángulo 347812" width="190" height="55" rx="27.5" transform="translate(600 817.499)" fill="#cee284"/>
+      <text id="Poligástrico_" data-name="Poligástrico 
+" transform="translate(698.833 851.671)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-45.609" y="0">Poligástrico </tspan><tspan x="0" y="24"></tspan></text>
+    </g>
+    <rect id="Rectángulo_330004" data-name="Rectángulo 330004" width="150.999" height="36.749" rx="18.375" transform="translate(588.333 974.416)" fill="#eff5d6"/>
+    <rect id="Rectángulo_351598" data-name="Rectángulo 351598" width="219.999" height="36.749" rx="18.375" transform="translate(851.001 974.416)" fill="#eff5d6"/>
+    <rect id="Rectángulo_351596" data-name="Rectángulo 351596" width="150.999" height="36.749" rx="18.375" transform="translate(588.333 1060.416)" fill="#eff5d6"/>
+    <rect id="Rectángulo_351597" data-name="Rectángulo 351597" width="182.834" height="36.749" rx="18.375" transform="translate(865.167 1060.416)" fill="#eff5d6"/>
+    <text id="Pastoreo" transform="translate(664.333 997.791)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-32.086" y="0">Pastoreo</tspan></text>
+    <text id="Conservación_de_forrajes" data-name="Conservación de forrajes" transform="translate(959.001 997.791)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-88.531" y="0">Conservación de forrajes</tspan></text>
+    <text id="Tipos_de_pastoreo" data-name="Tipos de pastoreo" transform="translate(664.333 1085.791)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-64.172" y="0">Tipos de pastoreo</tspan></text>
+    <text id="Heno_ensilaje_y_BMN" data-name="Heno, ensilaje y BMN" transform="translate(959.001 1085.791)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-75.043" y="0">Heno, ensilaje y BMN</tspan></text>
+    <g id="Grupo_1004715" data-name="Grupo 1004715" transform="translate(-409.834 -117.408)">
+      <line id="Línea_154-2" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-2" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014266" data-name="Grupo 1014266" transform="translate(2058.834 1544.91) rotate(180)">
+      <line id="Línea_154-3" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-3" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014263" data-name="Grupo 1014263" transform="translate(-211.166 -117.408)">
+      <line id="Línea_154-4" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-4" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014264" data-name="Grupo 1014264" transform="translate(0.667 -143.574)">
+      <line id="Línea_154-5" data-name="Línea 154" x1="0.167" y2="65.166" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-5" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10096.908)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014270" data-name="Grupo 1014270" transform="translate(-135 51.592)">
+      <line id="Línea_154-6" data-name="Línea 154" x1="0.167" y2="65.166" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-6" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10096.908)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014271" data-name="Grupo 1014271" transform="translate(157.001 51.592)">
+      <line id="Línea_154-7" data-name="Línea 154" x1="0.167" y2="65.166" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-7" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10096.908)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1004721" data-name="Grupo 1004721" transform="translate(224.334 -117.408)">
+      <line id="Línea_154-8" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-8" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1004726" data-name="Grupo 1004726" transform="translate(460.667 -114.908)">
+      <line id="Línea_154-9" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-9" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014265" data-name="Grupo 1014265" transform="translate(1188.333 1544.91) rotate(180)">
+      <line id="Línea_154-10" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-10" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014267" data-name="Grupo 1014267" transform="translate(1393.333 1544.91) rotate(180)">
+      <line id="Línea_154-11" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-11" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014273" data-name="Grupo 1014273" transform="translate(-135 182.76)">
+      <line id="Línea_154-12" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-12" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014276" data-name="Grupo 1014276" transform="translate(159.668 182.76)">
+      <line id="Línea_154-13" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-13" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014274" data-name="Grupo 1014274" transform="translate(-135 268.76)">
+      <line id="Línea_154-14" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-14" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014275" data-name="Grupo 1014275" transform="translate(159.668 268.76)">
+      <line id="Línea_154-15" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-15" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014268" data-name="Grupo 1014268" transform="translate(1603.333 1544.91) rotate(180)">
+      <line id="Línea_154-16" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-16" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1014269" data-name="Grupo 1014269" transform="translate(1833.333 1544.91) rotate(180)">
+      <line id="Línea_154-17" data-name="Línea 154" x1="0.167" y2="39" transform="translate(799.166 746.742)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <path id="Trazado_118034-17" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12758.666 10070.742)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Grupo_1005358" data-name="Grupo 1005358" transform="translate(126.001 -122.746)">
+      <rect id="Rectángulo_34788" data-name="Rectángulo 34788" width="168.999" height="52.5" rx="26.25" transform="translate(180 815.332)" fill="#ffa686"/>
+      <text id="Bienestar_animal" data-name="Bienestar animal" transform="translate(266.666 847.832)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-60.988" y="0">Bienestar animal</tspan></text>
+    </g>
+    <g id="Grupo_1014257" data-name="Grupo 1014257" transform="translate(532.336 -126.957)">
+      <rect id="Rectángulo_34788-2" data-name="Rectángulo 34788" width="168.999" height="52.5" rx="26.25" transform="translate(180 815.332)" fill="#ffa686"/>
+      <text id="Alojamiento_" data-name="Alojamiento
+" transform="translate(266.666 847.832)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-43.625" y="0">Alojamiento</tspan><tspan x="0" y="24"></tspan></text>
+    </g>
+    <g id="Grupo_1014259" data-name="Grupo 1014259" transform="translate(728.668 -141.166)">
+      <rect id="Rectángulo_34788-3" data-name="Rectángulo 34788" width="230" height="75.174" rx="36" transform="translate(180 815.332)" fill="#ffa686"/>
+      <text id="Alimentación_gramíne_a_y_leguminosa" data-name="Alimentación gramíne
+a y leguminosa" transform="translate(295 849)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-79.75" y="0">Alimentación gramíne</tspan><tspan x="-54.48" y="24">a y leguminosa</tspan></text>
+    </g>
+    <g id="Grupo_1005357" data-name="Grupo 1005357" transform="translate(115 -141.166)">
+      <rect id="Rectángulo_347811" data-name="Rectángulo 347811" width="168.999" height="73.5" rx="36" transform="translate(390 815.332)" fill="#ffa686"/>
+      <text id="Buenas_prácticas_pecuarias_" data-name="Buenas prácticas
+ pecuarias 
+" transform="translate(476.666 847.832)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-62.258" y="0">Buenas prácticas</tspan><tspan x="-39.332" y="24" xml:space="preserve"> pecuarias </tspan><tspan x="0" y="48"></tspan></text>
+    </g>
+    <g id="Grupo_1014261" data-name="Grupo 1014261" transform="translate(776.001 -141.498)">
+      <rect id="Rectángulo_347811-2" data-name="Rectángulo 347811" width="168.999" height="73.5" rx="36" transform="translate(390 815.332)" fill="#ffa686"/>
+      <text id="Equipos_insumos_y_herramientas" data-name="Equipos, insumos y herramientas" transform="translate(476.666 847.832)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-63.727" y="0">Equipos, insumos</tspan><tspan x="-56.238" y="24" xml:space="preserve"> y herramientas</tspan></text>
+    </g>
+    <path id="Trazado_632196" data-name="Trazado 632196" d="M-11997.333-9482.99v870" transform="translate(9872.989 -11367.998) rotate(-90)" fill="none" stroke="#0b481e" stroke-width="3"/>
+    <path id="Trazado_714010" data-name="Trazado 714010" d="M-11997.333-9482.99v870" transform="translate(9871.99 -11198.998) rotate(-90)" fill="none" stroke="#0b481e" stroke-width="3"/>
+    <text id="Proceso_agroalimentario_en_los_territorios_rurales_que_busca_alternativas_de_alimentación_aprovechando_los_recursos_naturales" data-name="Proceso agroalimentario en los territorios rurales que busca alternativas de alimentación aprovechando los recursos naturales" transform="translate(585.001 527.836)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto">
+    <tspan x="15" y="17">Proceso agroalimentario en los territorios rurales que </tspan>
+    <tspan x="15" y="41">busca alternativas de alimentación aprovechando los </tspan>
+    <tspan x="150" y="65">recursos naturales</tspan></text>
   </g>
-  <g id="Grupo_1084037" data-name="Grupo 1084037" transform="translate(-414.333 -770.838)">
-    <line id="Línea_154-2" data-name="Línea 154" y2="58.005" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-2" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10412.005)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084047" data-name="Grupo 1084047" transform="translate(86 98.602)">
-    <line id="Línea_154-3" data-name="Línea 154" y2="31.565" transform="translate(9.833 0)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-3" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(11969.333 9316.565)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <line id="Línea_3864" data-name="Línea 3864" y1="42" x2="364" transform="translate(97.5 57.5)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  <line id="Línea_3865" data-name="Línea 3865" x1="326.5" y1="52" transform="translate(611 57.5)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  <rect id="Rectángulo_361670" data-name="Rectángulo 361670" width="156" height="65" rx="30" transform="translate(13 248)" fill="#cee284"/>
-  <rect id="Rectángulo_361671" data-name="Rectángulo 361671" width="156" height="91.54" rx="30" transform="translate(13 366)" fill="#cee284"/>
-  <text id="Instituto_Colombiano_Agropecuario_ICA" data-name="Instituto Colombiano
-Agropecuario ICA" transform="translate(91 279)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-74.414" y="0">Instituto Colombiano</tspan><tspan x="-62.367" y="20">Agropecuario ICA</tspan></text>
-  <text id="Resolución_No_078006_del_2020" data-name="Resolución No
-078006
-del 2020" transform="translate(91 397)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-51.555" y="0">Resolución No</tspan><tspan x="-26.953" y="20">078006</tspan><tspan x="-30.641" y="40">del 2020</tspan></text>
-  <rect id="Rectángulo_361706" data-name="Rectángulo 361706" width="193" height="50" rx="25" transform="translate(313 136.5)" fill="#cee284"/>
-  <text id="Lugar_y_procesos_de_propagación" data-name="Lugar y procesos 
-de propagación" transform="translate(410 155.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-62.734" y="0">Lugar y procesos </tspan><tspan x="-55.195" y="20">de propagación</tspan></text>
-  <g id="Grupo_1084087" data-name="Grupo 1084087" transform="translate(-101.333 -881.338)">
-    <line id="Línea_154-4" data-name="Línea 154" y2="58.005" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-4" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10412.005)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084088" data-name="Grupo 1084088" transform="translate(-101.333 -767.338)">
-    <line id="Línea_154-5" data-name="Línea 154" y2="58.005" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-5" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10412.005)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084089" data-name="Grupo 1084089" transform="translate(-101.333 -653.338)">
-    <line id="Línea_154-6" data-name="Línea 154" y2="222.935" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084090" data-name="Grupo 1084090" transform="translate(399 102.102)">
-    <line id="Línea_154-7" data-name="Línea 154" y2="31.565" transform="translate(9.833 0)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-6" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(11969.333 9316.565)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <line id="Línea_3872" data-name="Línea 3872" y1="30.5" x2="132.333" transform="translate(410.5 72.5)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  <rect id="Rectángulo_361707" data-name="Rectángulo 361707" width="156" height="70" rx="30" transform="translate(326 251.5)" fill="#cee284"/>
-  <rect id="Rectángulo_361708" data-name="Rectángulo 361708" width="156" height="50" rx="25" transform="translate(326 369.5)" fill="#cee284"/>
-  <rect id="Rectángulo_361709" data-name="Rectángulo 361709" width="169" height="50" rx="25" transform="translate(437 444.5)" fill="#ffe9e1"/>
-  <rect id="Rectángulo_361710" data-name="Rectángulo 361710" width="169" height="50" rx="25" transform="translate(437 552.5)" fill="#ffe9e1"/>
-  <rect id="Rectángulo_361711" data-name="Rectángulo 361711" width="169" height="50" rx="25" transform="translate(437 498.5)" fill="#ffe9e1"/>
-  <text id="Implementación_de_viveros_o_áreas_de_propagación" data-name="Implementación de
-viveros o áreas
-de propagación" transform="translate(404 273.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-68.32" y="0">Implementación de</tspan><tspan x="-53.543" y="20">viveros o áreas</tspan><tspan x="-55.195" y="40">de propagación</tspan></text>
-  <text id="Buenas_prácticas_agrícolas" data-name="Buenas prácticas
-agrícolas" transform="translate(404 391.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-61.453" y="0">Buenas prácticas</tspan><tspan x="-32.691" y="20">agrícolas</tspan></text>
-  <text id="Inocuidad_alimentaria" data-name="Inocuidad alimentaria" transform="translate(524 473.54)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-76.91" y="0">Inocuidad alimentaria</tspan></text>
-  <text id="El_medio_ambiente" data-name="El medio ambiente" transform="translate(515 583.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-66.012" y="0">El medio ambiente</tspan></text>
-  <text id="Bienestar_animal" data-name="Bienestar animal" transform="translate(515 529.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-59.602" y="0">Bienestar animal</tspan></text>
-  <g id="Grupo_1084091" data-name="Grupo 1084091" transform="translate(-661.333 1033.832) rotate(-90)">
-    <line id="Línea_154-8" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-7" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084092" data-name="Grupo 1084092" transform="translate(-661.333 1086.834) rotate(-90)">
-    <line id="Línea_154-9" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-8" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084093" data-name="Grupo 1084093" transform="translate(-661.333 977.873) rotate(-90)">
-    <line id="Línea_154-10" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-9" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <text id="Se_rige_por" data-name="Se rige por" transform="translate(138 85.102)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.078" y="0">Se rige por</tspan></text>
-  <text id="Supervisa" transform="translate(408.833 89.939)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-34.953" y="0">Supervisa</tspan></text>
-  <text id="Expedida_por" data-name="Expedida por" transform="translate(169 212.831)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-46.293" y="0">Expedida por</tspan></text>
-  <text id="como" transform="translate(143 333.831)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-20.324" y="0">como</tspan></text>
-  <rect id="Rectángulo_361712" data-name="Rectángulo 361712" width="169" height="50" rx="25" transform="translate(438 616.5)" fill="#ffe9e1"/>
-  <text id="Las_personas" data-name="Las personas" transform="translate(516 647.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-47.773" y="0">Las personas</tspan></text>
-  <g id="Grupo_1084094" data-name="Grupo 1084094" transform="translate(-661.333 1086.834) rotate(-90)">
-    <line id="Línea_154-11" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-10" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084095" data-name="Grupo 1084095" transform="translate(-661.333 1148.874) rotate(-90)">
-    <line id="Línea_154-12" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-11" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084096" data-name="Grupo 1084096" transform="translate(-661.333 1148.874) rotate(-90)">
-    <line id="Línea_154-13" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-12" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <rect id="Rectángulo_361713" data-name="Rectángulo 361713" width="169" height="50" rx="25" transform="translate(523 179.5)" fill="#ffe9e1"/>
-  <rect id="Rectángulo_361714" data-name="Rectángulo 361714" width="169" height="50" rx="25" transform="translate(523 287.5)" fill="#ffe9e1"/>
-  <rect id="Rectángulo_361715" data-name="Rectángulo 361715" width="169" height="50" rx="25" transform="translate(523 233.5)" fill="#ffe9e1"/>
-  <text id="Espacio" transform="translate(610 208.54)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-28.203" y="0">Espacio</tspan></text>
-  <text id="Tiempo" transform="translate(601 318.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-27.016" y="0">Tiempo</tspan></text>
-  <text id="Ubicación" transform="translate(601 264.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-35.262" y="0">Ubicación</tspan></text>
-  <rect id="Rectángulo_361716" data-name="Rectángulo 361716" width="169" height="50" rx="25" transform="translate(524 351.5)" fill="#ffe9e1"/>
-  <text id="Tipo_de_evento" data-name="Tipo de evento" transform="translate(602 382.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-52.289" y="0">Tipo de evento</tspan></text>
-  <g id="Grupo_1084097" data-name="Grupo 1084097" transform="translate(-4.166 -873.169)">
-    <line id="Línea_154-14" data-name="Línea 154" y2="193.915" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084098" data-name="Grupo 1084098" transform="translate(-587 792.833) rotate(-90)">
-    <line id="Línea_154-15" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-13" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084099" data-name="Grupo 1084099" transform="translate(-565 704.833) rotate(-90)">
-    <line id="Línea_154-16" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-14" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084100" data-name="Grupo 1084100" transform="translate(-565 771.833) rotate(-90)">
-    <line id="Línea_154-17" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-15" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084101" data-name="Grupo 1084101" transform="translate(-565 828.833) rotate(-90)">
-    <line id="Línea_154-18" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-16" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084102" data-name="Grupo 1084102" transform="translate(-565 898.833) rotate(-90)">
-    <line id="Línea_154-19" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-17" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <text id="Desde" transform="translate(359 216.831)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-22.359" y="0">Desde</tspan></text>
-  <text id="Además" transform="translate(355 347.831)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-29.457" y="0">Además</tspan></text>
-  <text id="Permiten_proteger" data-name="Permiten
-proteger" transform="translate(362 452.54)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-32.211" y="0">Permiten</tspan><tspan x="-29.965" y="20">proteger</tspan></text>
-  <rect id="Rectángulo_361717" data-name="Rectángulo 361717" width="193" height="50" rx="25" transform="translate(779 136.5)" fill="#cee284"/>
-  <text id="Calidad_material_vegetal" data-name="Calidad material
-vegetal" transform="translate(876 155.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-57.953" y="0">Calidad material</tspan><tspan x="-25.746" y="20">vegetal</tspan></text>
-  <g id="Grupo_1084103" data-name="Grupo 1084103" transform="translate(364.667 -881.338)">
-    <line id="Línea_154-20" data-name="Línea 154" y2="58.005" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-18" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10412.005)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <rect id="Rectángulo_361718" data-name="Rectángulo 361718" width="156" height="70" rx="30" transform="translate(792 251.5)" fill="#cee284"/>
-  <text id="Factores" transform="translate(878 294)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-30.996" y="0">Factores</tspan></text>
-  <rect id="Rectángulo_361719" data-name="Rectángulo 361719" width="169" height="50" rx="25" transform="translate(989 179.5)" fill="#ffe9e1"/>
-  <rect id="Rectángulo_361720" data-name="Rectángulo 361720" width="169" height="50" rx="25" transform="translate(989 291.5)" fill="#ffe9e1"/>
-  <rect id="Rectángulo_361721" data-name="Rectángulo 361721" width="169" height="50" rx="25" transform="translate(989 233.5)" fill="#ffe9e1"/>
-  <text id="Genético" transform="translate(1065 208.54)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-31.645" y="0">Genético</tspan></text>
-  <text id="Físico" transform="translate(1067 322.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-21.215" y="0">Físico</tspan></text>
-  <text id="Fisiológico" transform="translate(1067 264.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.676" y="0">Fisiológico</tspan></text>
-  <rect id="Rectángulo_361722" data-name="Rectángulo 361722" width="169" height="50" rx="25" transform="translate(990 351.5)" fill="#ffe9e1"/>
-  <text id="Fitosanitario" transform="translate(1068 382.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-44.469" y="0">Fitosanitario</tspan></text>
-  <g id="Grupo_1084105" data-name="Grupo 1084105" transform="translate(461.834 -873.17)">
-    <line id="Línea_154-21" data-name="Línea 154" y2="193.915" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084106" data-name="Grupo 1084106" transform="translate(-121 792.833) rotate(-90)">
-    <line id="Línea_154-22" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-19" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084107" data-name="Grupo 1084107" transform="translate(-98 704.833) rotate(-90)">
-    <line id="Línea_154-23" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-20" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084108" data-name="Grupo 1084108" transform="translate(-98 772.833) rotate(-90)">
-    <line id="Línea_154-24" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-21" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084109" data-name="Grupo 1084109" transform="translate(-98 828.833) rotate(-90)">
-    <line id="Línea_154-25" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-22" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084110" data-name="Grupo 1084110" transform="translate(-98 898.833) rotate(-90)">
-    <line id="Línea_154-26" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-23" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <text id="Se_define_por" data-name="Se define por" transform="translate(821.25 219.04)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-46.535" y="0">Se define por</tspan></text>
-  <g id="Grupo_1084048" data-name="Grupo 1084048" transform="translate(930 108.602)">
-    <line id="Línea_154-27" data-name="Línea 154" y2="29.565" transform="translate(9.833 0)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-24" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(11969.333 9314.565)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <text id="Analiza" transform="translate(718 101)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-26.184" y="0">Analiza</tspan></text>
-  <rect id="Rectángulo_361723" data-name="Rectángulo 361723" width="193" height="50" rx="25" transform="translate(1197 136.5)" fill="#cee284"/>
-  <text id="Técnica" transform="translate(1290.25 168)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-28.094" y="0">Técnica</tspan></text>
-  <g id="Grupo_1084111" data-name="Grupo 1084111" transform="translate(782.667 -881.338)">
-    <line id="Línea_154-28" data-name="Línea 154" y2="94.505" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-25" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10448.505)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <rect id="Rectángulo_361724" data-name="Rectángulo 361724" width="179.196" height="50" rx="25" transform="translate(1407 179.5)" fill="#ffe9e1"/>
-  <rect id="Rectángulo_361725" data-name="Rectángulo 361725" width="179.196" height="50" rx="25" transform="translate(1407 287.5)" fill="#ffe9e1"/>
-  <rect id="Rectángulo_361726" data-name="Rectángulo 361726" width="179.196" height="50" rx="25" transform="translate(1407 233.5)" fill="#ffe9e1"/>
-  <text id="Altura_de_la_planta" data-name="Altura de la planta" transform="translate(1483 208.54)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-64.23" y="0">Altura de la planta</tspan></text>
-  <text id="Biomasa_seca_y_verde" data-name="Biomasa seca y verde" transform="translate(1492 318.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-77.523" y="0">Biomasa seca y verde</tspan></text>
-  <text id="Área_foliar" data-name="Área foliar" transform="translate(1485 264.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-36.777" y="0">Área foliar</tspan></text>
-  <rect id="Rectángulo_361727" data-name="Rectángulo 361727" width="179.196" height="50" rx="25" transform="translate(1407 351.5)" fill="#ffe9e1"/>
-  <text id="_de_enraizamiento" data-name="% de enraizamiento" transform="translate(1491 382.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-69.086" y="0">% de enraizamiento</tspan></text>
-  <g id="Grupo_1084112" data-name="Grupo 1084112" transform="translate(879.834 -873.17)">
-    <line id="Línea_154-29" data-name="Línea 154" y2="251.67" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084113" data-name="Grupo 1084113" transform="translate(224.5 792.833) rotate(-90)">
-    <line id="Línea_154-30" data-name="Línea 154" y2="94.086" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-26" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10448.086)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084114" data-name="Grupo 1084114" transform="translate(320 704.833) rotate(-90)">
-    <line id="Línea_154-31" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-27" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084115" data-name="Grupo 1084115" transform="translate(320 771.833) rotate(-90)">
-    <line id="Línea_154-32" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-28" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084116" data-name="Grupo 1084116" transform="translate(320 828.833) rotate(-90)">
-    <line id="Línea_154-33" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-29" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <g id="Grupo_1084117" data-name="Grupo 1084117" transform="translate(320 898.833) rotate(-90)">
-    <line id="Línea_154-34" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-30" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <text id="Evalúa" transform="translate(1258.25 219.04)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-23.316" y="0">Evalúa</tspan></text>
-  <rect id="Rectángulo_361728" data-name="Rectángulo 361728" width="177.196" height="78" rx="30" transform="translate(1409 410.5)" fill="#ffe9e1"/>
-  <text id="Incidencia_y_severidad_de_problemas_fitosanitarios" data-name="Incidencia y severidad
-de problemas 
-fitosanitarios" transform="translate(1497 439.5)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-78.559" y="0">Incidencia y severidad</tspan><tspan x="-50.547" y="20">de problemas </tspan><tspan x="-46.66" y="40">fitosanitarios</tspan></text>
-  <g id="Grupo_1084118" data-name="Grupo 1084118" transform="translate(321 957.833) rotate(-90)">
-    <line id="Línea_154-35" data-name="Línea 154" y2="21.586" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-31" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10375.586)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <line id="Línea_3873" data-name="Línea 3873" x1="326.5" y1="52" transform="translate(963.804 52.5)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  <g id="Grupo_1084119" data-name="Grupo 1084119" transform="translate(1282.804 103.602)">
-    <line id="Línea_154-36" data-name="Línea 154" y2="31.565" transform="translate(9.833 0)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-32" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(11969.333 9316.565)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <text id="De_carácter" data-name="De carácter" transform="translate(1135 105)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-40.809" y="0">De carácter</tspan></text>
-  <rect id="Rectángulo_361729" data-name="Rectángulo 361729" width="193" height="50" rx="25" transform="translate(1642.196 137.25)" fill="#cee284"/>
-  <text id="Acciones_de_mejora" data-name="Acciones de mejora" transform="translate(1735.446 168.75)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-70.211" y="0">Acciones de mejora</tspan></text>
-  <g id="Grupo_1084120" data-name="Grupo 1084120" transform="translate(1227.863 -880.588)">
-    <line id="Línea_154-37" data-name="Línea 154" y2="89.005" transform="translate(510.166 1069)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-33" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(12469.666 10443.005)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <text id="A_través" data-name="A través" transform="translate(1684.446 219.79)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-28.895" y="0">A través</tspan></text>
-  <line id="Línea_3874" data-name="Línea 3874" x1="568.333" y1="51.898" transform="translate(1167.5 50.602)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  <text id="Permite" transform="translate(1586.196 113.75)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-27.797" y="0">Permite</tspan></text>
-  <g id="Grupo_1084121" data-name="Grupo 1084121" transform="translate(1728 102.551)">
-    <line id="Línea_154-38" data-name="Línea 154" y2="31.565" transform="translate(9.833 0)" fill="none" stroke="#0b481e" stroke-width="3"/>
-    <path id="Trazado_118034-34" data-name="Trazado 118034" d="M-11969.333-9290.667l10,6,10-6" transform="translate(11969.333 9316.565)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="3"/>
-  </g>
-  <rect id="Rectángulo_361730" data-name="Rectángulo 361730" width="193" height="70.669" rx="30" transform="translate(1642.196 280.831)" fill="#cee284"/>
-  <text id="Marco_de_evaluación_de_sustentabilidad" data-name="Marco de evaluación
-de sustentabilidad" transform="translate(1735.446 312.331)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-73.594" y="0">Marco de evaluación</tspan><tspan x="-65.309" y="20">de sustentabilidad</tspan></text>
 </svg>

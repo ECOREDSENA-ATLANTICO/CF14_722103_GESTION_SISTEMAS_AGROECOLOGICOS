@@ -102,6 +102,12 @@ export default {
         titulo: 'Materias primas en la alimentación agroecológica',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema9',
+        numero: '9',
+        titulo: 'Sistemas de pastoreo',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
@@ -150,32 +156,154 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Principios de la ganadería agroecológica',
+      referencia:
+        'Ecología Verde (3 jun 2018) Qué es la AGROECOLOGÍA - Agroecología CARACTERÍSTICAS. Youtube. [Video]',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=NJ1CBZ34WyQ',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Alojamiento de las especies pecuarias de interés zootécnico',
+      referencia:
+        'El Mundo del Campo (23 mayo 2020) SENA CLEM ESPECIES MENORES. Youtube. [Video]',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=ZnjNP9HOs_g&t=1625s',
+    },
+    {
+      tema: 'Sistemas de pastoreo',
+      referencia:
+        'Ganadería Colombiana Sostenible (12 jul 2018) Manejo de praderas y sistemas de pastoreo. Youtube. [Video]',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=jmeXgBzCoGI',
+    },
+    {
+      tema: 'Conservación de forrajes',
+      referencia:
+        'Ganadería Colombiana Sostenible. (7 ago. 2021) Conservación de forrajes (Ensilado y henificación) Youtube. [Video]',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=vcx6Lj8sFbE',
+    },
+    {
+      tema: 'Programa de Alimentación Agroecológica',
+      referencia:
+        'TvAgro (s.f.) Cómo implementar un Sistema de Agroecología - TvAgro por Juan Gonzalo Angel Youtube. [Video]',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=kKiAKTSUkwQ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Agroecología',
+      significado:
+        'Ciencia que estudia cómo los diferentes componentes del agroecosistema interactúan entre sí para beneficio de la comunidad.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Biodigestor',
+      significado:
+        'Tanque que se carga con residuos orgánicos, allí se produce la descomposición de la materia orgánica y como resultado genera un gas utilizado para otras actividades.',
+    },
+    {
+      termino: 'Grasa',
+      significado:
+        'Sustancias orgánicas, formada por átomos de carbono, oxígeno e hidrógeno y estos hacen parte de procesos en el cuerpo.',
+    },
+    {
+      termino: 'Melaza',
+      significado:
+        'Subproducto del proceso de la caña de azúcar y utilizada como fuente de energía.',
+    },
+    {
+      termino: 'Monogástrico',
+      significado:
+        'Son animales que tienen un estómago y su catabolismo y anabolismo se realiza por medio de enzimas y ácidos.',
+    },
+    {
+      termino: 'Nutrición',
+      significado:
+        'Todo el proceso mediante el cual el animal ingiere y utiliza todos los componentes requeridos para su mantenimiento, crecimiento, producción o reproducción.',
+    },
+    {
+      termino: 'Palatabilidad',
+      significado:
+        'Es la característica de un alimento que estimula una respuesta selectiva de un animal que pastorea y es un factor determinante en el consumo de las especies vegetales, lo cual tiene implicaciones importantes en la elección de alimentos para venados en confinamiento.',
+    },
+    {
+      termino: 'Poligástrico',
+      significado:
+        'Animal que posee un estómago dividido en cuatro compartimentos de los cuales cada uno cumple una función.',
+    },
+    {
+      termino: 'Proteína',
+      significado:
+        'Moléculas formadas por cadena de aminoácidos y cumplen muchas funciones en el cuerpo.',
+    },
+    {
+      termino: 'Rumiante',
+      significado:
+        'Animal que realiza el proceso de la rumia, proceso por el cual el animal expulsa por medio del eructo el CO2.',
+    },
+    {
+      termino: 'RUV',
+      significado: 'Registro único de vacunación implementado por FEDEGAN.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'ABC Rural (2022). La Red BPA presentó la Guía de Buenas Prácticas Ganaderas.',
+      link:
+        'https://elabcrural.com/la-red-bpa-presento-la-guia-de-buenas-practicas-ganaderas/',
+    },
+    {
+      referencia:
+        'Cardona, J. (2011) Implementación de buenas prácticas ganaderas en hacienda yerbabuena SA. Corporación universitaria lasallista.',
+      link:
+        'http://repository.unilasallista.edu.co/dspace/bitstream/10567/363/1/Buenas_practicas_ganaderas.pdf',
+    },
+    {
+      referencia:
+        'Duarte, J. (2010,14 MAYO) Ganadería Ecológica y Protocolos para su implementación. Uniamazonia.',
+      link:
+        'https://www.uniamazonia.edu.co/documentos/docs/Programas%20Academicos/Ingenieria%20Agroecologica/Memorias/I%20Simposio%20Internacional%20de%20Agroecologia/Ganaderia%20ecologica%20y%20protocolos%20para%20su%20implementacion.pdf',
+    },
+    {
+      referencia:
+        'Engordmix (2022). Instalaciones para un criadero de cerdos dedicado a la explotación semi-intensiva.',
+      link:
+        'https://www.engormix.com/porcicultura/articulos/instalaciones-criadero-cerdos-dedicado-t25910.htm',
+    },
+    {
+      referencia:
+        'Franco, Q. (2007) Alternativas para la conservación de forrajes. Universidad Nacional.',
+      link:
+        'https://www.researchgate.net/publication/353046808_Alternativas_para_la_Conservacion_de_Forrajes',
+    },
+    {
+      referencia:
+        'López, N. (2016) Fortalecimiento de Unidades Productivas Integrales Rurales. Universidad Santo Tomas.',
+      link: 'https://repository.usta.edu.co/handle/11634/1290',
+    },
+    {
+      referencia:
+        'Osorio, A. (2012) Agroecología aplicada a condiciones del trópico húmedo. Convenio SENA-Tropenbos.',
+      link: 'Downloads/Agroecologia.pdf',
+    },
+    {
+      referencia:
+        'Contexto ganadero (2021) ¿Qué tipos de leguminosas hay disponibles para clima cálido?',
+      link:
+        'https://www.contextoganadero.com/ganaderia-sostenible/que-tipos-de-leguminosas-hay-disponibles-para-clima-calido',
+    },
+    {
+      referencia:
+        'Wattiaux M(s/f) Digestión de la vaca lechera. Instituto Babcock.',
+      link:
+        'https://1library.co/document/y4kk3k5q-guia-tecnica-basica-de-lecheria-universidad-de-wisconsin-madison.html',
+    },
+    {
+      referencia: 'Zoovetesmipasion  (2018). Galpón para pollos de engorde.',
+      link:
+        'https://zoovetesmipasion.com/avicultura/pollos/estructura-del-galpon-pollos-engorde/',
     },
   ],
   creditos: [
@@ -198,37 +326,59 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable de Desarrollo Curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
+        {
+          nombre: 'James Dubán Lozano Cuellar',
+          cargo: 'Experto Temático',
+          centro: 'Centro Agropecuario la Granja - Regional Tolima',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesora Metodológica',
+          centro: 'Centro de Diseño y Metrología  - Distrito Capital',
+        },
+        // {
+        //   nombre: 'Jhon Jairo Rodríguez Pérez',
+        //   cargo: 'Corrector de estilo',
+        //   centro: 'Centro de Diseño y Metrología - Distrito Capital',
+        // },
       ],
     },
-    {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
-      autores: [
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-      ],
-    },
+    // {
+    //   titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+    //   autores: [
+    //     {
+    //       nombre: 'Nombre responsable',
+    //       cargo: 'Diseñador de Contenidos Digitales',
+    //       centro: 'Centro de Servicios de Salud - Regional Antioquia',
+    //     },
+    //     {
+    //       nombre: 'Nombre responsable',
+    //       cargo: 'Desarrollador Fullstack',
+    //       centro: 'Centro de Servicios de Salud - Regional Antioquia',
+    //     },
+    //     {
+    //       nombre: 'Nombre',
+    //       cargo: 'Animador y Producción audiovisual',
+    //       centro: 'Centro de Servicios de Salud - Regional Antioquia',
+    //     },
+    //     {
+    //       nombre: 'Nombre',
+    //       cargo: 'Actividad Didáctica',
+    //       centro: 'Centro de Servicios de Salud - Regional Antioquia',
+    //     },
+    //   ],
+    // },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
