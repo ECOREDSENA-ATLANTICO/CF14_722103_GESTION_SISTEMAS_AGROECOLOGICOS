@@ -15,11 +15,57 @@
             figure
               img.img-t.m-auto(src='@/assets/curso/images/tema3/img_1.png', alt='')
 
-        .row.justify-content-center.align-items-center.mb-0
-          .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/images/tema3/img_2.svg', alt='Imagen Decorativa') 
-              
+        .row.justify-content-center.align-items-center.mb-5
+          ImagenInfografica.color-acento-botones
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/images/tema3/img_2.svg'  alt='')
+
+            .tarjeta.color-acento-botones.p-3(x="22.2%" y="25.3%" numero="1")
+              p Área de insumos de materiales (desinfectantes y plaguicidas).
+
+            .tarjeta.color-acento-botones.p-3(x="7.6%" y="45.5%" numero="2")
+              p Áreas de residuos (biodigestor, lombricultivo, tanques estercoleros, compostaje).
+
+            .tarjeta.color-acento-botones.p-3(x="19%" y="55%" numero="3")
+              p Zona administrativa.
+
+            .tarjeta.color-acento-botones.p-3(x="35.5%" y="53%" numero="4")
+              p Área de desinfección (entrada).
+
+            .tarjeta.color-acento-botones.p-3(x="42.5%" y="24%" numero="5")
+              p Corrales y potreros para los animales
+
+            .tarjeta.color-acento-botones.p-3(x="70.5%" y="50.7%" numero="6")
+              p Una cerca
+
+            .tarjeta.color-acento-botones.p-3(x="85.3%" y="37%" numero="7")
+              p Zonas de cuarentena.
+
+            .tarjeta.color-acento-botones.p-3(x="71%" y="20.5%" numero="8")
+              p Zona de aprisco.
+
+            .tarjeta.color-acento-botones.p-3(x="60%" y="38%" numero="9")
+              p Los baños con ducha (vestier). 
+
+            .tarjeta.color-acento-botones.p-3(x="32%" y="78.5%" numero="10")
+              p Las bodegas de suministros.
+
+            .tarjeta.color-acento-botones.p-3(x="16.5%" y="82%" numero="11")
+              p Área de galpones.
+
+            .tarjeta.color-acento-botones.p-3(x="87%" y="70.5%" numero="12")
+              p Pasillo y rampas de movilización de animales
+
+            .tarjeta.color-acento-botones.p-3(x="66.2%" y="75.5%" numero="13")
+              p Pediluvios en zonas de entrada a las diferentes áreas.
+
+            .tarjeta.color-acento-botones.p-3(x="78.5%" y="91%" numero="14")
+              p Área de almacenamiento y tratamiento de agua.
+
+            .tarjeta.color-acento-botones.p-3(x="52%" y="70%" numero="15")
+              p Zonas de hospital o enfermería.
+
         .row.align-items-center.mb-4
           .col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
             figure
