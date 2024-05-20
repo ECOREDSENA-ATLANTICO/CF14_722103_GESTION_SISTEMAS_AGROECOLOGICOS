@@ -154,117 +154,123 @@
           SlyderA(tipo="b")
   
             .row.justify-content-center.align-items-star.p-3
-              .col-md-7.mb-4.mb-md-0
+              .col-md-12.mb-4.mb-md-0
                 h4.p-3 Sanidad animal y bioseguridad
-                p.p-3.mb-3 Es importante que cada empresa bovina dedicada la producción de carne cumpla con los siguientes requerimientos.
+                p.p-3.mb-2 Es importante que cada empresa bovina dedicada la producción de carne cumpla con los siguientes requerimientos.
               
                 .row.justify-content-center.align-items-star
-                  .tarjeta.jumbotron-6.p-3.mb-5.col-5
-                      ol.lista-ol--cuadro.lista-ol--separador
-                        li 
-                          .lista-ol
-                            span Constancia de Inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
-                        li 
-                          .lista-ol
-                            span Registro único de vacunación (RUV) por la federación colombiana de ganaderos (Fedegan). 
-                        li 
-                          .lista-ol
-                            span Programa de prevención y mastitis.
-                        li 
-                          .lista-ol
-                            span Finca delimitada.
-                        li 
-                          .lista-ol
-                            span Registros de ingreso y salidas de personas y vehículos.
-                        li 
-                          .lista-ol
+                  .col-lg-4
+                    .tarjeta.jumbotron-6.p-3.mb-5
+                        ol.lista-ol--cuadro.lista-ol--separador
+                          li 
+                            .lista-ol
+                              span Constancia de Inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
+                          li 
+                            .lista-ol
+                              span Registro único de vacunación (RUV) por la federación colombiana de ganaderos (Fedegan). 
+                          li 
+                            .lista-ol
+                              span Programa de prevención y mastitis.
+                          li 
+                            .lista-ol
+                              span Finca delimitada.
+                          li 
+                            .lista-ol
+                              span Registros de ingreso y salidas de personas y vehículos.
+                          li 
+                            .lista-ol
                             span Área de cuarentena.
+                            
+                  .col-lg-4
+                    .tarjeta.border-color-acento-contenido.p-3.mb-5
+                        ol.lista-ol--cuadro.lista-ol--separador
+                          li 
+                            .lista-ol
+                              span Constancia de Inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
+                          li 
+                            .lista-ol
+                              span Registro único de vacunación (RUV) por la federación colombiana de ganaderos (Fedegan). 
+                          li 
+                            .lista-ol
+                              span Programa de prevención y mastitis.
+                          li 
+                            .lista-ol
+                              span Finca delimitada.
+                          li 
+                            .lista-ol
+                              span Registros de ingreso y salidas de personas y vehículos.
+                          li 
+                            .lista-ol
+                              span Área de cuarentena.
 
-                  .tarjeta.border-color-acento-contenido.p-3.mb-5.col-5
-                      ol.lista-ol--cuadro.lista-ol--separador
-                        li 
-                          .lista-ol
-                            span Constancia de Inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
-                        li 
-                          .lista-ol
-                            span Registro único de vacunación (RUV) por la federación colombiana de ganaderos (Fedegan). 
-                        li 
-                          .lista-ol
-                            span Programa de prevención y mastitis.
-                        li 
-                          .lista-ol
-                            span Finca delimitada.
-                        li 
-                          .lista-ol
-                            span Registros de ingreso y salidas de personas y vehículos.
-                        li 
-                          .lista-ol
-                            span Área de cuarentena.
-
-
-                
-
-              .col-md-5
-                figure
-                  img.w-50.img-t.m-auto(src='@/assets/curso/images/tema2/img_11.png', alt='Texto que describa la imagen')
+                  .col-lg-4
+                    figure
+                      img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_11.png', alt='Texto que describa la imagen')
   
             .row.justify-content-center.align-items-star.p-3
               .col-md-5.mb-4.mb-md-0
-                h4.p-3 Presencia de Plagas y Enfermedades 
-                p.p-3.mb-2 Según Acosta, N. R. (2018) La presencia de plagas y enfermedades es evaluada a través de indicadores como se relaciona a continuación en el numeral.
-                ol.lista-ol.p-3
-                  li 
-                    span.text-bold 1. 
-                    | Incidencia (I)
-                  li 
-                    span.text-bold 2. 
-                    | Severidad (S)
-  
-              .col-md-7
-                figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_12.png', alt='Texto que describa la imagen')
-  
-            .row.justify-content-center.align-items-star.p-3
-              .col-md-5.mb-4.mb-md-0
-                h4.p-3 Incidencia (I)
-                p.p-3.mb-3 Hace referencia al porcentaje de individuos (planta o parte de la planta) que presentan una enfermedad respecto al total, es decir, se evalúa la ausencia o presencia de enfermedad más no el nivel de esta.
-                //- img.p-3.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_13.png', alt='Texto que describa la imagen')
-  
-              .col-md-7
-                figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_13.png', alt='Texto que describa la imagen')
-                  
-            .row.justify-content-center.align-items-star.p-3
-              .col-md-5.mb-4.mb-md-0
-                h4.p-3 Severidad (S)
-                p.p-3.mb-3 La severidad permite evaluar el nivel de la enfermedad que impacta la planta, el cual se determina a través de un porcentaje entre 0 y 100 de la superficie de la parte de la planta enferma o afectada.
-                //- img.p-3.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_28.svg', alt='Texto que describa la imagen')
-  
-              .col-md-7
-                figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_14.png', alt='Texto que describa la imagen')
-
-            .row.justify-content-center.align-items-star.p-3
-              .col-md-5.mb-4.mb-md-0
-                h4.p-3 Severidad (S)
-                p.p-3.mb-3 La severidad permite evaluar el nivel de la enfermedad que impacta la planta, el cual se determina a través de un porcentaje entre 0 y 100 de la superficie de la parte de la planta enferma o afectada.
-                //- img.p-3.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_28.svg', alt='Texto que describa la imagen')
-  
+                h4.p-3 Suministro y calidad de agua 
+                p.p-3.mb-2 Para asegurar la calidad del agua es importante realizar por lo menos una vez al año un análisis donde se tenga convicción de que el agua es potable y apta para el consumo animal; los resultados se deben conservar por lo menos dos años, los tanques de almacenamiento deben estar siempre limpios por lo que es importante que los recipientes sean de fácil acceso y faciliten su limpieza, deben permanecer tapados y su capacidad de almacenamiento debe ser idónea para el abastecimiento de los animales. 
               .col-md-7
                 figure
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_15.png', alt='Texto que describa la imagen')
-
+  
             .row.justify-content-center.align-items-star.p-3
               .col-md-5.mb-4.mb-md-0
-                h4.p-3 Severidad (S)
-                p.p-3.mb-3 La severidad permite evaluar el nivel de la enfermedad que impacta la planta, el cual se determina a través de un porcentaje entre 0 y 100 de la superficie de la parte de la planta enferma o afectada.
-                //- img.p-3.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_28.svg', alt='Texto que describa la imagen')
+                h4.p-3 Registros y documentación
+                p.p-3.mb-3 Se debe contar con un registro de todas las actividades llevadas a cabo y sus documentos de soporte, estos documentos se deben mantener en custodia por un periodo mínimo de dos años, al igual una ficha de cada semoviente con todos los eventos y guías sanitarias de movilización.  
+              .col-md-7
+                figure
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_12.png', alt='Texto que describa la imagen')
+                  
+            .row.justify-content-center.align-items-star.p-3
+              .col-md-5.mb-4.mb-md-0
+                h4.p-3 Control de medicamentos veterinarios e insumos agropecuarios
+                .row
+                  .col-lg-4
+                    img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_30.svg', alt='Texto que describa la imagen')
+                  .col-lg-8 
+                    p.mb-3 Todos los insumos, medicamentos, plaguicidas, biológicos y alimentos que se utilicen en la finca deben contar con su respectivo registro del ICA lo que garantiza su control de calidad. 
+
+                p.p-3.mb-3 Para el almacenamiento de medicamentos y equipos veterinarios es de suma importancia su rotulación, además de que deben estar separados previamente según su necesidad, los insecticidas deben estar separados para evitar la contaminación cruzada.
   
               .col-md-7
                 figure
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_16.png', alt='Texto que describa la imagen')
-  
-          
+
+            .row.justify-content-center.align-items-star.p-3
+              .col-md-5.mb-4.mb-md-0
+                h4.p-3 Programa de manejo integrado de plagas (mip)
+                p.p-3.mb-3 Para el control de plagas se debe llevar una planilla en la que se evidencia ejecución de procedimientos utilizados y registro de los productos aplicados, también se debe llevar un control de clasificación de basuras, los residuos peligrosos deben tener una disposición especial teniendo en cuenta la reglamentación ambiental que se encuentra vigente y los residuos como el estiércol manejarlos con compostaje para minimizar el impacto. 
+                
+              .col-md-7
+                figure
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_13.png', alt='Texto que describa la imagen')
+
+            .row.justify-content-center.align-items-star.p-3
+              .col-md-12.mb-4.mb-md-0
+                h4.p-3.text-center Control de medicamentos veterinarios e insumos agropecuarios
+                figure
+                  img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_36.svg', alt='Texto que describa la imagen')
+            
+            .row.justify-content-center.align-items-star.p-3
+              .col-md-5.mb-4.mb-md-0
+                h4.p-3 Bienestar animal 
+                p.p-3.mb-3 Los animales deben de disponer de un manejo adecuado y en condiciones higiénicas que no afecten su salud, se debe evitar todo tipo de maltrato y estrés, se prohíben cualquier utensilio, elemento corto punzante o eléctricos que afecte la salud del animal, durante el ordeño evitar ruidos y gritos que pongan al animal incomodo o nervioso. 
+                
+              .col-md-7
+                figure
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_14.png', alt='Texto que describa la imagen')
+   
+            .row.justify-content-center.align-items-star.p-3
+              .col-md-3.mb-4.mb-md-0
+                h4.p-3 Otras áreas 
+                p.p-3.mb-3 Cumplir con la certificación de acuerdo con el Plan de Ordenamiento Territorial (POT) y locativos. 
+                
+              .col-md-9
+                figure
+                  img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_35.svg', alt='Texto que describa la imagen')
+   
 </template>
 
 <script>
