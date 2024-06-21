@@ -18,7 +18,7 @@
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_2.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_2.png' alt='AvatarTop')
             p.p-4 
               span.text-bold Básculas: 
               | es una herramienta necesaria en toda producción pecuaria, para poder realizar índices de conversiones adecuadas.
@@ -26,7 +26,7 @@
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_3.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_3.png' alt='AvatarTop')
             p.p-4 
               span.text-bold Comederos: 
               | son equipos útiles para el manejo de la alimentación y se adecuan de acuerdo a la etapa del animal.  
@@ -34,7 +34,7 @@
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_4.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_4.png' alt='AvatarTop')
             p.p-4 
               span.text-bold Bebederos: 
               | son equipos útiles para el manejo de la alimentación y se adecuan de acuerdo con la etapa del animal.
@@ -42,7 +42,7 @@
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_5.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_5.png' alt='AvatarTop')
             p.p-4 
               span.text-bold Jeringas: 
               | las jeringas son algo indispensable en el instrumental de una producción pecuaria y existen de acuerdo al volumen a dosificar  desde 1 ml hasta 50 ml.
@@ -50,7 +50,7 @@
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_7.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_7.png' alt='AvatarTop')
             p.p-4 
               span.text-bold Biberones: 
               | es muy utilizado en las salas de maternidad de las ganaderías intensivas cuando se utilizan amamantamiento restringido  y en caso especiales cuando la madre no puede alimentar el animal.
@@ -58,34 +58,31 @@
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_8.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_8.png' alt='AvatarTop')
             p.p-4 
               span.text-bold Pipetas: 
-              br 
-              | tiene varia funcionalidades especialmente para toma de muestras de agua, leche entre otros.
+              |  tiene varia funcionalidades especialmente para toma de muestras de agua, leche entre otros.
 
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_9.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_9.png' alt='AvatarTop')
             p.p-4 
-              span.text-bold Termómetro:
-              br 
+              span.text-bold Termómetro: 
               | elemento indispensable para la toma de temperatura corporal en caso de animales enfermos, en campo hay termómetros digitales con infrarrojo o rectales.
 
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_10.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_10.png' alt='AvatarTop')
             p.p-4 
               span.text-bold Pinzas: 
-              br 
-              | instrumento quirúrgico necesario para primeros auxilios o intervenciones quirúrgicas.
+              |  instrumento quirúrgico necesario para primeros auxilios o intervenciones quirúrgicas.
 
           .tarjeta.jumbotron 
             .row.justify-content-center
               .col-12
-                img(src='@/assets/curso/images/tema5/img_11.png' alt='AvatarTop')
+                img.img_peq(src='@/assets/curso/images/tema5/img_11.png' alt='AvatarTop')
             p.p-4.text-small 
               span.text-bold Otros: 
               | de acuerdo con la actividad se utilizan equipos y herramientas necesarios para la ejecución de las actividades diarias, un ejemplo en los programas de reproducción se necesitará guantes de palpar, pajillas de inseminar, pistola de inseminar, tijeras. En la parte de sanidad son necesarios los implementos necesarios como fonendo, guantes desechables, tijeras, agujas hipodérmicas, medicamentos entre otros.

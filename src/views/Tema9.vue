@@ -31,7 +31,7 @@
                 img.w-100(src='@/assets/curso/images/tema9/img_3.png', alt='Imagen Decorativa')
             .col-lg-7.align-self-center.mb-4
               p.text-bold El Heno:
-              | Es cultivar forraje el cual se cosecha como cualquier producto y luego se almacena, proceso por el cual se disminuye el porcentaje de humedad y es guardado para la temporada de verano; ese hace con secado al sol y luego es recolectado en pacas para su fácil distribución. 
+              | es cultivar forraje el cual se cosecha como cualquier producto y luego se almacena, proceso por el cual se disminuye el porcentaje de humedad y es guardado para la temporada de verano; ese hace con secado al sol y luego es recolectado en pacas para su fácil distribución. 
 
         .row.justify-content-center.align-items-center.mb-3
         .bg_2.pt-2.mb-4.col-10.m-auto.mb-5
@@ -41,7 +41,7 @@
                 img.w-100(src='@/assets/curso/images/tema9/img_4.png', alt='Imagen Decorativa')
             .col-lg-7.align-self-center.mb-4
               p.text-bold El Ensilaje:
-              | Es un método de conservación de forraje y se realiza bajo un método de fermentación láctica microbiana en ausencia de oxígeno, donde se expone a altas temperaturas internas con el fin de impedir las bacterias malignas y solo permanezcan los microorganismos benéficos. Este proceso aumenta la digestibilidad, palatabilidad, contenido de vitamina A del producto ensilado. 
+              | es un método de conservación de forraje y se realiza bajo un método de fermentación láctica microbiana en ausencia de oxígeno, donde se expone a altas temperaturas internas con el fin de impedir las bacterias malignas y solo permanezcan los microorganismos benéficos. Este proceso aumenta la digestibilidad, palatabilidad, contenido de vitamina A del producto ensilado. 
           
         p.mb-3 Este puede ser guardado en condiciones óptimas hasta un año, lo cual beneficia la productividad de la granja y el sostenimiento de animales por hectárea. De acuerdo con el clima se utilizan las especies a ensilar.
         p.mb-5 Un silo es una estructura diseñada para almacenar grano y otros materiales a granel, son parte integrante del ciclo de acopio de la agricultura. Los más habituales tienen forma cilíndrica, asemejándose a una torre, construida de madera, hormigón armado o metal. Los tipos de silos son: 

@@ -34,22 +34,22 @@
               tbody
                 tr
                   td.jumbotron-20 Bovinos, Bufalinos y potros
-                  td.jumbotron-14 6 Meses
+                  td.jumbotron-20 6 Meses
                 tr
                   td.jumbotron-20 Ponedoras
-                  td.jumbotron-14 No superar 18 semanas
+                  td.jumbotron-20 No superar 18 semanas
                 tr
                   td.jumbotron-20 Pollos de Engorde
-                  td.jumbotron-14 Menor a 3 días
+                  td.jumbotron-20 Menor a 3 días
                 tr
                   td.jumbotron-20 Cerdos
-                  td.jumbotron-14 Reproductor (6 meses) Engorde (40 días)
+                  td.jumbotron-20 Reproductor (6 meses) Engorde (40 días)
                 tr
                   td.jumbotron-20 Ovinos y caprinos
-                  td.jumbotron-14 2 meses
+                  td.jumbotron-20 2 meses
                 tr
                   td.jumbotron-20 Conejos
-                  td.jumbotron-14 1 mes
+                  td.jumbotron-20 1 mes
 
         .row.justify-content-center.align-items-center.mb-0
           .bg_2.pt-2.mb-4.col-10
@@ -83,6 +83,7 @@
                       a.boton.color-acento-botones(href="https://www.minagricultura.gov.co/tramites-servicios/Paginas/Normatividad-Sello-Ecologico.aspx" target="_blank")
                         span Enlace
                         i.fas.fa-link
+        Separador
 
         #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
           h2 2.1  Bienestar animal
@@ -160,27 +161,27 @@
               
                 .row.justify-content-center.align-items-star
                   .col-lg-4
-                    .tarjeta.jumbotron-6.p-3.mb-5
-                        ol.lista-ol--cuadro.lista-ol--separador
-                          li 
-                            .lista-ol
-                              span Constancia de Inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
-                          li 
-                            .lista-ol
-                              span Registro único de vacunación (RUV) por la federación colombiana de ganaderos (Fedegan). 
-                          li 
-                            .lista-ol
-                              span Programa de prevención y mastitis.
-                          li 
-                            .lista-ol
-                              span Finca delimitada.
-                          li 
-                            .lista-ol
-                              span Registros de ingreso y salidas de personas y vehículos.
-                          li 
-                            .lista-ol
-                            span Área de cuarentena.
-                            
+                    .tarjeta.border-color-acento-contenido.p-3.mb-5
+                      ol.lista-ol--cuadro.lista-ol--separador
+                        li 
+                          .lista-ol
+                            span Constancia de Inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
+                        li 
+                          .lista-ol
+                            span Registro único de vacunación (RUV) por la federación colombiana de ganaderos (Fedegan). 
+                        li 
+                          .lista-ol
+                            span Programa de prevención y mastitis.
+                        li 
+                          .lista-ol
+                            span Finca delimitada.
+                        li 
+                          .lista-ol
+                            span Registros de ingreso y salidas de personas y vehículos.
+                        li 
+                          .lista-ol
+                          span Área de cuarentena.
+                          
                   .col-lg-4
                     .tarjeta.border-color-acento-contenido.p-3.mb-5
                         ol.lista-ol--cuadro.lista-ol--separador

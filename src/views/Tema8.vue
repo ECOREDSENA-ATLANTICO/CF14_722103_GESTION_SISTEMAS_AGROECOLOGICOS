@@ -69,7 +69,7 @@
               AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
                 .row(titulo="Guinea o india:")
                   .col-12
-                    p.mb-0 Se adapta de 0 a 1.800 m.s.n.m., en suelos fértiles se adapta muy bien pero también puede resistir la sequía su crecimiento se caracteriza por matojos, tallos erectos, hojas largas, anchas, Es muy utilizado en corte, pastoreo y ensilaje. Puede producir 60 a 75 T/Ha/año.
+                    p.mb-0 se adapta de 0 a 1.800 m.s.n.m., en suelos fértiles se adapta muy bien pero también puede resistir la sequía su crecimiento se caracteriza por matojos, tallos erectos, hojas largas, anchas, Es muy utilizado en corte, pastoreo y ensilaje. Puede producir 60 a 75 T/Ha/año.
 
                 .row(titulo="Braquiarias:")
                   .col-12
@@ -81,7 +81,7 @@
 
                 .row(titulo="King grass:")
                   .col-12
-                    p.mb-0 Se adapta de 0 a 2.100 m.s.n.m. No resiste encharcamiento. Se utiliza para corte y ensilaje. El único problema es que su corte es a los 45 días si no pierde sus atributos. (300 a 400 T/Ha/año).
+                    p.mb-0 se adapta de 0 a 2.100 m.s.n.m. No resiste encharcamiento. Se utiliza para corte y ensilaje. El único problema es que su corte es a los 45 días si no pierde sus atributos. (300 a 400 T/Ha/año).
                     
           //- tercera parte
           .col-lg-10.bg-color-1.px-5.py-2.mb-3

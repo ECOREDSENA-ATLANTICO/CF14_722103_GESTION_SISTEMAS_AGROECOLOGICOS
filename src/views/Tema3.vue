@@ -37,7 +37,7 @@
               p Corrales y potreros para los animales
 
             .tarjeta.color-acento-botones.p-3(x="70.5%" y="50.7%" numero="6")
-              p Una cerca
+              p Una cerca perimetral
 
             .tarjeta.color-acento-botones.p-3(x="85.3%" y="37%" numero="7")
               p Zonas de cuarentena.
@@ -163,22 +163,22 @@
               tbody
                 tr
                   td.jumbotron-20 Bovinos, Bufalinos y potros
-                  td.jumbotron-14 6 Meses
+                  td.jumbotron-20 6 Meses
                 tr
                   td.jumbotron-20 Ponedoras
-                  td.jumbotron-14 No superar 18 semanas
+                  td.jumbotron-20 No superar 18 semanas
                 tr
                   td.jumbotron-20 Pollos de Engorde
-                  td.jumbotron-14 Menor a 3 días
+                  td.jumbotron-20 Menor a 3 días
                 tr
                   td.jumbotron-20 Cerdos
-                  td.jumbotron-14 Reproductor (6 meses) Engorde (40 días)
+                  td.jumbotron-20 Reproductor (6 meses) Engorde (40 días)
                 tr
                   td.jumbotron-20 Ovinos y caprinos
-                  td.jumbotron-14 2 meses
+                  td.jumbotron-20 2 meses
                 tr
                   td.jumbotron-20 Conejos
-                  td.jumbotron-14 1 mes
+                  td.jumbotron-20 1 mes
 
         .row.justify-content-center.align-items-center.mb-5
           .tarjeta.tarjeta--blanca.p-4.col-12

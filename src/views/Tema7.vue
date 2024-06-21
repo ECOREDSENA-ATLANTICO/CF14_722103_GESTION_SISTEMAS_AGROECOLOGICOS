@@ -42,13 +42,13 @@
               tbody
                 tr
                   td.jumbotron-20 Proteína
-                  td.jumbotron-14 Vegetal: Grano de soya, torta de algodón, harina de alfalfa y leguminosas.
+                  td.jumbotron-20 Vegetal: Grano de soya, torta de algodón, harina de alfalfa y leguminosas.
                 tr
                   td.jumbotron-20 Energía
-                  td.jumbotron-14 Maíz, sorgo, arroz, cebada, melaza, subproductos de molinera. harina de yuca, aceites y grasas vegetales y animales, harina de plátano, plantas gramíneas, bore, zapallo (ahuyama)
+                  td.jumbotron-20 Maíz, sorgo, arroz, cebada, melaza, subproductos de molinera. harina de yuca, aceites y grasas vegetales y animales, harina de plátano, plantas gramíneas, bore, zapallo (ahuyama)
                 tr
                   td.jumbotron-20 Suplementos
-                  td.jumbotron-14 Minerales
+                  td.jumbotron-20 Minerales
 
 </template>
 

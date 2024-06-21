@@ -1,11 +1,11 @@
 <template lang="pug">
 .curso-main-container.pb-3
       BannerInterno
-      .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+      .container.tarjeta.tarjeta--blanca.p-4.p-md-5.cs
         .titulo-principal.color-acento-contenido
-          .titulo-principal__numero
+          .titulo-principal__numero 
             span 6
-          h1 Equipos, insumos y herramientas de manejo animal 
+          h1 Programa de alimentación agroecológica 
         
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-12.mb-4
@@ -63,7 +63,7 @@
 
         .row.align-items-center.mb-4
           .col-lg-6(data-aos="fade-left")
-            p En los procesos que se desarrollan en el estómago del rumiante, una vaca puede producir hasta 180 litros de saliva, la cual es amortiguador, con el fin de mantener una acidez neutral que favorece la digestión de la fibra, en este proceso de fermentación hay un resultado de producción de ácidos grasos de ácidos volátiles (AGV) y este es una fuente de energía para la vaca y  un precursor de los triglicéridos y azúcares      de leche (lactosa)    
+            p En los procesos que se desarrollan en el estómago del rumiante, una vaca puede producir hasta 180 litros de saliva, la cual es amortiguador, con el fin de mantener una acidez neutral que favorece la digestión de la fibra, en este proceso de fermentación hay un resultado de producción de ácidos grasos de ácidos volátiles (AGV) y este es una fuente de energía para la vaca y  un precursor de los triglicéridos y azúcares      de leche (lactosa).
           .col-lg-6.mb-0(data-aos="fade-left")
             figure
               img.img-t.m-auto(src='@/assets/curso/images/tema6/img_6.png', alt='Imagen Decorativa')
@@ -72,6 +72,8 @@
         
         #t_6_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
           h2 6.3 Sistema digestivo en monogástrico
+
+        p.mb-3 Las especies monogástricas como las aves y porcinos, requieren tener en su dieta únicamente alimento balanceado, para asegurar una alta producción, la dependencia es total por lo que es necesario asegurar la buena calidad del alimento suministrado. En el siguiente video se muestra el sistema digestivo de las aves:
         
         .row.align-items-center.mb-5
           .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
