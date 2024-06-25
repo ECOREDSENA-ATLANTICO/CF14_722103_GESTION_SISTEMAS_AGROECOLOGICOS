@@ -24,9 +24,9 @@
 
       .row.justify-content-center.align-items-center.fondo.mb-3
         figure.mb-5(data-aos="fade-right")
-          img.img-t.m-auto(src='@/assets/curso/images/introduccion/img_2.png', alt='')
-          //- .video
-          //-   <iframe width="560" height="315" src="https://www.youtube.com/embed/NUxX-ApgLMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          //- img.img-t.m-auto(src='@/assets/curso/images/introduccion/img_2.png', alt='')
+          .video
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/cZUTJNaDwFo" title="Producción pecuaria agroecológica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 </template>
 
