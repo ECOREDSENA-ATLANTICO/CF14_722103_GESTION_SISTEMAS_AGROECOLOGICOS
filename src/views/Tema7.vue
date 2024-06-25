@@ -23,7 +23,7 @@
           
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img.w-100(src='@/assets/curso/images/tema7/img_2.svg', alt='Imagen Decorativa')
+              img.w-100(src='@/assets/curso/images/tema7/img_2.jpg', alt='Imagen Decorativa')
 
         p Los requerimientos de cada uno de estos componentes varían de acuerdo con el  tamaño, raza, clima y por lo general los animales grandes necesitan altos requerimientos de mantenimiento más que las especies pequeñas; este mismo caso pasa con animales jóvenes, en la etapa de crecimiento consumen alimentos,  ganan peso por día, esto va muy relacionado con la dieta suministrada. 
         

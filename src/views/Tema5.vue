@@ -98,6 +98,7 @@
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
               img(src='@/assets/curso/images/tema5/img_6.svg', alt='Imagen Decorativa')
+              figcaption Nota. ABC Rural (2022). La Red BPA presentó la Guía de Buenas Prácticas Ganaderas.
         
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-9.mb-3.mb-lg-0
