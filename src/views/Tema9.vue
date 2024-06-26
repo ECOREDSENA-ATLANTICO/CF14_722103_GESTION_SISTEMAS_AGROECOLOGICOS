@@ -70,7 +70,7 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/images/tema9/img_6.svg'  alt='')
+                img(src='@/assets/curso/images/tema9/img_6.svg'  alt='Muestra el componente formativo la formulación de bloques multinutricionales, como : -Fuente de energía. - Fuente de nitrógeno no proteico (NNP). - Fuentes de proteína. - Mezcla mineral. - Material fibroso. - Agente ligante')
 
             .tarjeta.color-acento-botones.p-3(x="23.3%" y="24%" numero="1")
               .h5.mb-2 Fuente de energía:

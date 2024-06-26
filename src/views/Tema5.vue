@@ -97,15 +97,21 @@
           
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img(src='@/assets/curso/images/tema5/img_6.svg', alt='Imagen Decorativa')
+              img(src='@/assets/curso/images/tema5/img_6.svg', alt='Muestra BPG-VC en la producción: Las personas y la empresa • Organización de la empresa • Personal La infraestructura de producción • Establecimiento • Instalaciones equipos y herramientas El animal y su manejo • Manejo del rodeo • Aumentación • Salud animal • Bienestar animal El ambiente y la producción • Sumo, agua, formes • Gestión de estiércol y efluentes • Gestión de los residuos. Adaptación y mitigación al cambio climático.')
               figcaption Nota. ABC Rural (2022). La Red BPA presentó la Guía de Buenas Prácticas Ganaderas.
         
+        //- .row.justify-content-center.align-items-center.mb-3
+        //-   .col-lg-9.mb-3.mb-lg-0
+        //-     .bloque-texto-b.color-acento-contenido.p-4
+        //-       .bloque-texto-b__texto
+        //-         p.mb-0 Con respecto a los insumos necesarios para la producción  pecuarias y de acuerdo con la demanda de alimentos, es necesario e indispensable la nutrición y reproducción de los animales, un ejemplo común son los granos utilizados para suplementación animal, otro insumo necesario en la parte agrícola son los fertilizantes que sirven para garantizar la seguridad alimentaria.
+        
         .row.justify-content-center.align-items-center.mb-3
-          .col-lg-9.mb-3.mb-lg-0
-            .bloque-texto-b.color-acento-contenido.p-4
-              .bloque-texto-b__texto
-                p.mb-0 Con respecto a los insumos necesarios para la producción  pecuarias y de acuerdo con la demanda de alimentos, es necesario e indispensable la nutrición y reproducción de los animales, un ejemplo común son los granos utilizados para suplementación animal, otro insumo necesario en la parte agrícola son los fertilizantes que sirven para garantizar la seguridad alimentaria.
-                
+        .bg_2.pt-2.mb-4.col-10.m-auto.mb-5
+          .row
+            .col-lg-12.p-4.align-self-center.mb-4
+              p.mb-0 Con respecto a los insumos necesarios para la producción  pecuarias y de acuerdo con la demanda de alimentos, es necesario e indispensable la nutrición y reproducción de los animales, un ejemplo común son los granos utilizados para suplementación animal, otro insumo necesario en la parte agrícola son los fertilizantes que sirven para garantizar la seguridad alimentaria.
+
 </template>
 
 <script>

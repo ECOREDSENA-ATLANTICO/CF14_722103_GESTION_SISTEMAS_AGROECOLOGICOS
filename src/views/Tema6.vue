@@ -7,18 +7,24 @@
             span 6
           h1 Programa de alimentación agroecológica 
         
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-12.mb-4
-            .bloque-texto-g.p-3.p-sm-4.p-md-5
-              .bloque-texto-g__img(
-                :style="{'background-image': `url(${require('@/assets/curso/images/tema6/img_1.png')})`, 'width': '100%', 'height':'249px'}"
-              )
-          .col-lg-9.mb-5
-            .bloque-texto-g__texto.p-4.jumbotron-6(
-              :style="{'top': '75px', 'position': 'relative', 'width':'100%'}"
-            )
-              p.mb-0 El programa de alimentos agroecológicos está enfocado a los alimentos que brinda el medio ambiente de forma natural y sin ninguna intervención de agroquímicos, este sistema busca optimizar la producción de los predios que utilicen este sistema al brindar alimento. Las bondades de este sistema son: aumento de ganancia de peso diario y la disminución del estrés por parte de los animales, con el sombrío que proporcionan los árboles utilizados; a esto se le suma la disminución de los gastos al no utilizar ningún producto a base de agroquímicos.
-            
+        //- .row.justify-content-center.align-items-center.mb-5
+        //-   .col-lg-12.mb-4
+        //-     .bloque-texto-g.p-3.p-sm-4.p-md-5
+        //-       .bloque-texto-g__img(
+        //-         :style="{'background-image': `url(${require('@/assets/curso/images/tema6/img_1.png')})`, 'width': '100%', 'height':'249px'}"
+        //-       )
+        //-   .col-lg-9.mb-5
+        //-     .bloque-texto-g__texto.p-4.jumbotron-6(
+        //-       :style="{'top': '75px', 'position': 'relative', 'width':'100%'}"
+        //-     )
+        //-       p.mb-0 El programa de alimentos agroecológicos está enfocado a los alimentos que brinda el medio ambiente de forma natural y sin ninguna intervención de agroquímicos, este sistema busca optimizar la producción de los predios que utilicen este sistema al brindar alimento. Las bondades de este sistema son: aumento de ganancia de peso diario y la disminución del estrés por parte de los animales, con el sombrío que proporcionan los árboles utilizados; a esto se le suma la disminución de los gastos al no utilizar ningún producto a base de agroquímicos.
+    
+        .row.justify-content-justify.align-items-justify.fondo.mb-3
+          figure.mb-3(data-aos="fade-right")
+            img.img-t.m-auto(src='@/assets/curso/images/tema6/img_1.png', alt='')
+
+          p.mb-4 El programa de alimentos agroecológicos está enfocado a los alimentos que brinda el medio ambiente de forma natural y sin ninguna intervención de agroquímicos, este sistema busca optimizar la producción de los predios que utilicen este sistema al brindar alimento. Las bondades de este sistema son: aumento de ganancia de peso diario y la disminución del estrés por parte de los animales, con el sombrío que proporcionan los árboles utilizados; a esto se le suma la disminución de los gastos al no utilizar ningún producto a base de agroquímicos.
+              
         .row.align-items-center.mb-5
           .col-lg-7(data-aos="fade-right")
             p Los sistemas agroforestales son una alternativa muy útil,  los cuales generan muchas ventajas, pues puede utilizar árboles      autóctonos como fuente de alimentación, cerca viva, lindero maderable y zona de descanso de los animales. Los programas están basados en la implementación de métodos como el banco de proteína, la cual selecciona una planta con alto porcentaje de proteína que se siembra en callejones y se deja crecer a un determinado tamaño,  brinda alimento, aumento en la carga animal y se evita el sobrepastoreo.
@@ -35,7 +41,7 @@
         .row.align-items-center.mb-4
           .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_3.svg', alt='') 
+              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_3.svg', alt='Muestra el aparato digestivo y fisiología digestiva de las distintas especies: Estómago. Intestino delgado. Población bacteriana.') 
           .col-lg-6(data-aos="fade-left")
             p Con respecto a la anatomía, es el estudio, organización y ubicación en relación de las estructuras de los órganos animales. La fisiología estudia todos los procesos químicos y físicos que se realizan en un proceso; de acuerdo con el sistema digestivo debemos entender muy bien el funcionamiento de los monogástricos      y los poligástricos para poder brindar una buena alimentación en todas las etapas de producción.
             p El aparato digestivo de las distintas especies es muy semejante en sus formas. La primera parte más ensanchada sirve para la digestión (estómago) y la segunda porción en forma de tubo fino y alargado para la absorción (intestino). Como los mamíferos no poseen enzimas capaces de degradar la celulosa, los herbívoros poseen partes ensanchadas en su tracto digestivo, tienen población bacteriana que degrada la celulosa. En el cerdo, caballo y conejo esta población bacteriana está situada en el intestino grueso, en los rumiantes esta porción se encuentra antes del verdadero estómago, permitiendo que los productos de la acción bacteriana sean completamente absorbidos por el animal. Esto permite alimentarse con forrajes de baja calidad pero con alto contenido de celulosa, indestructibles para otras especies. 
@@ -59,7 +65,7 @@
         .row.align-items-center.mb-5
           .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_5.svg', alt='') 
+              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_5.svg', alt='Muestra el componente formativo cada uno de los estómagos de los rumiantes: Retículo. Omaso. Abomaso o cuajar') 
 
         .row.align-items-center.mb-4
           .col-lg-6(data-aos="fade-left")
@@ -78,7 +84,7 @@
         .row.align-items-center.mb-5
           .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_7.svg', alt='') 
+              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_7.svg', alt='Muestra el componente formativo cada una de las partes del Sistema digestivo de las aves : Boca. Esofago. Buche. Estómago glandular o proventrículo. Molleja. Intestino delgado. Ciegos. Intestino grueso. Cloaca.') 
 
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8(data-aos="fade-right")

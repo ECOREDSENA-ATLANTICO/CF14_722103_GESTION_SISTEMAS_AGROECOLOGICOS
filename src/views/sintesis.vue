@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra el componente formativo una síntesis donde se explica a través de un mapa conceptual el proceso de la ganadería agroecológica: Bienestar animal Buenas prácticas pecuarias Alojamiento Alimentación gramíne a y leguminosa Equipos, insumos y herramientas")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -19,7 +19,7 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/images/tema3/img_2.svg'  alt='')
+                img(src='@/assets/curso/images/tema3/img_2.svg'  alt='Muestra el componente formativo las instalaciones y los equipos disponibles para el alojamiento de las especies pecuarias.')
 
             .tarjeta.color-acento-botones.p-3(x="12.5%" y="29.5%" numero="1")
               p Área de insumos de materiales (desinfectantes y plaguicidas).
@@ -77,7 +77,7 @@
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img(src='@/assets/curso/images/tema3/img_4.svg', alt='Imagen Decorativa') 
+              img(src='@/assets/curso/images/tema3/img_4.svg', alt='Muestra el diseño y las condiciones de las instalaciones para el bienestar animal: Temperatura. Corrientes de aire. Iluminación. Humedad') 
               
         p En la avicultura y porcicultura la orientación del galpón en climas fríos y templados debe ser de sur a norte, con el fin de que los rayos solares penetren a los galpones durante algunas horas del día, en la mañana y en la tarde.  En climas cálidos el galpón se orientará de este a oeste, siguiendo la dirección del sol para obtener la mayor área sombreada todo el día.  
               
@@ -89,7 +89,7 @@
           
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img(src='@/assets/curso/images/tema3/img_5.svg', alt='Imagen Decorativa')
+              img(src='@/assets/curso/images/tema3/img_5.svg', alt='Muestra la orientación del galpón y las piaras de acuerdo con el clima: Clima frío y templado. Clima Cálido.')
               figcaption Nota. Zoovetesmipasion  (2018). Galpón para pollos de engorde.
 
         p Con respecto a la dimensión, se determina según la producción:
@@ -189,7 +189,7 @@
           
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img(src='@/assets/curso/images/tema3/img_8.svg', alt='Imagen Decorativa')
+              img(src='@/assets/curso/images/tema3/img_8.svg', alt='Muestra el componente formativo las Instalaciones de cerdo: Pista de engorde. Maternidad. Gestación 1. Gestación 2.')
               figcaption Nota. Engordmix (2022). Instalaciones para un criadero de cerdos dedicado a la explotación semi-intensiva.
 
         .row.align-items-center.mb-4

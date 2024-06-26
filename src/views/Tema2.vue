@@ -17,7 +17,7 @@
                 p.m-0.mx-lg-0 Con respecto a la producción animal se debe buscar una armonía entre los tres componentes: tierra, plantas y animales, estos últimos deben hacer parte de la granja integral ecológica incluyendo la cría, otro aspecto importante es la utilización de especies y razas, siempre que  estén en condiciones adecuadas frente a salubridad y estado nutricional,  si se va a introducir un animal al sistema ecológico solo se puede de acuerdo con la edad.
               .col-lg-4.mb-0.mb-lg-4(data-aos="fade-left")
                 figure
-                  img.w-75(src='@/assets/curso/images/tema2/img_1.png', alt='Imagen Decorativa') 
+                  img.w-75(src='@/assets/curso/images/tema2/img_1.png', alt='') 
           
         .row.justify-content-center.align-items-center.mb-5
           .tarjeta.tarjeta--blanca.p-4.col-10
@@ -26,7 +26,7 @@
               span  Cuadro Edades de las especies a introducir
   
           .tabla.col-10.text-center
-            table
+            table(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
               thead
                 tr.jumbotron-14
                   th Especie
@@ -56,7 +56,7 @@
             .row
               .col-lg-4.mb-0(data-aos="fade-left")
                 figure
-                  img(src='@/assets/curso/images/tema2/img_2.png', alt='Imagen Decorativa') 
+                  img(src='@/assets/curso/images/tema2/img_2.png', alt='') 
               .col-lg-8.align-self-center.mb-4.mb-lg-0
                 p.m-0.mx-lg-0 En ganadería se podrá reemplazar animales de lugares certificados, en caso que no se encuentren se les permite con autorización previa la introducción de animales, demostrando la imposibilidad de obtener semovientes de producciones ecológicas, con el 10% del inventario en ganado adulto mayor y hasta un 20% de ganado adulto menor, el cual serán manejados bajo el reglamento de la Resolución 187 de 2006 ministerio de agricultura y desarrollo rural. Por la cual se adopta el Reglamento para la producción primaria, procesamiento, empacado, etiquetado, almacenamiento, certificación, importación, comercialización, y se establece el Sistema de Control de Productos Agropecuarios Ecológicos.
 
@@ -67,7 +67,7 @@
               span  Resoluciones y Reglamentos 
                   
             figure
-              img(src='@/assets/curso/images/tema2/img_3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/images/tema2/img_37.png', alt='Muestra el componente formativo las resoluciones y reglamentos en el Sistema de Control de Productos Agropecuarios Ecológicos: Resolución 148 del 2004, creación y reglamentación sello alimento Ecológico MADR. Resolución 036 del 2007, Modificación Res 148704, Reglamento sello alimento ecológico MADR. Resolución 187 del 2006, Ministerio de agricultura y desarrollo rural MADR. Resolución 0199/2016, Ministerio de agricultura y desarrollo rural MADR. Reglamento de la Producción Agropecuaria Ecológica MADR.')
 
         .row.justify-content-center
           .col-lg-8
@@ -95,7 +95,7 @@
                 p.m-0 El término bienestar animal se define como el estado físico y mental de los animales, durante su vida y sacrificio un animal en buen estado debe contar con condiciones óptimas de salud, alimentación, confort animal, esto contribuye a prevenir cualquier patología durante todo su proceso de vida. El Instituto Colombiano Agropecuario según el código sanitario para animales terrestres de la  Organización Mundial de Sanidad OIE y el decreto 2113 del 2007 en término define el modo como el animal afronta las condiciones con el entorno. A continuación se presentan los componentes del bienestar animal: 
               .col-lg-3.mb-0(data-aos="fade-left")
                 figure
-                  img.w-75(src='@/assets/curso/images/tema2/img_5.png', alt='Imagen Decorativa') 
+                  img.w-75(src='@/assets/curso/images/tema2/img_5.png', alt='') 
 
         .row.justify-content-center.align-items-center.mb-4
           .tarjeta.tarjeta--blanca.p-4.col-10
@@ -104,7 +104,7 @@
               span  Componentes del Bienestar animal
                   
             figure
-              img(src='@/assets/curso/images/tema2/img_6.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/images/tema2/img_6.svg', alt='Muestra las condiciones del componentes del Bienestar animal: Nutrición: Mediante el fácil acceso a agua fresca y una dieta para mantener una salud y un vigor pleno. Sin temor y angustia. Asegurando condiciones y tratamiento que eviten el sufrimiento mental. Libre de molestias y angustias. Proporcionando un ambiente apropiado, incluyendo un refugio y una zona de descanso confortable. Libre de enfermedades y lesiones. Mediante la prevención o el diagnóstico y tratamiento rápidos. Expresión de comportamiento Proporcionando suficiente espacio, instalaciones adecuadas y compañía de la propia especie animal.')
 
 
         .row.align-items-center.mb-4
@@ -187,26 +187,26 @@
                         ol.lista-ol--cuadro.lista-ol--separador
                           li 
                             .lista-ol
-                              span Constancia de Inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
+                              span Área de animales enfermos.
                           li 
                             .lista-ol
-                              span Registro único de vacunación (RUV) por la federación colombiana de ganaderos (Fedegan). 
+                              span Información publicitaria de las enfermedades de control.
                           li 
                             .lista-ol
-                              span Programa de prevención y mastitis.
+                              span Programa único de identificación de semovientes.
                           li 
                             .lista-ol
-                              span Finca delimitada.
+                              span Plan sanitario realizado por un profesional veterinario o a fines que incluya información.
                           li 
                             .lista-ol
-                              span Registros de ingreso y salidas de personas y vehículos.
+                              span Certificación de un profesional veterinario o a fines.
                           li 
                             .lista-ol
-                              span Área de cuarentena.
+                              span Plan de desinfección de vehículos.
 
                   .col-lg-4
                     figure
-                      img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_11.png', alt='Texto que describa la imagen')
+                      img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_11.png', alt='')
   
             .row.justify-content-center.align-items-star.p-3
               .col-md-5.mb-4.mb-md-0
@@ -214,7 +214,7 @@
                 p.p-3.mb-2 Para asegurar la calidad del agua es importante realizar por lo menos una vez al año un análisis donde se tenga convicción de que el agua es potable y apta para el consumo animal; los resultados se deben conservar por lo menos dos años, los tanques de almacenamiento deben estar siempre limpios por lo que es importante que los recipientes sean de fácil acceso y faciliten su limpieza, deben permanecer tapados y su capacidad de almacenamiento debe ser idónea para el abastecimiento de los animales. 
               .col-md-7
                 figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_15.png', alt='Texto que describa la imagen')
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_15.png', alt='')
   
             .row.justify-content-center.align-items-star.p-3
               .col-md-5.mb-4.mb-md-0
@@ -222,14 +222,14 @@
                 p.p-3.mb-3 Se debe contar con un registro de todas las actividades llevadas a cabo y sus documentos de soporte, estos documentos se deben mantener en custodia por un periodo mínimo de dos años, al igual una ficha de cada semoviente con todos los eventos y guías sanitarias de movilización.  
               .col-md-7
                 figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_12.png', alt='Texto que describa la imagen')
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_12.png', alt='')
                   
             .row.justify-content-center.align-items-star.p-3
               .col-md-5.mb-4.mb-md-0
                 h4.p-3 Control de medicamentos veterinarios e insumos agropecuarios
                 .row
                   .col-lg-4
-                    img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_30.svg', alt='Texto que describa la imagen')
+                    img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_30.svg', alt='')
                   .col-lg-8 
                     p.mb-3 Todos los insumos, medicamentos, plaguicidas, biológicos y alimentos que se utilicen en la finca deben contar con su respectivo registro del ICA lo que garantiza su control de calidad. 
 
@@ -237,7 +237,7 @@
   
               .col-md-7
                 figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_16.png', alt='Texto que describa la imagen')
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_16.png', alt='')
 
             .row.justify-content-center.align-items-star.p-3
               .col-md-5.mb-4.mb-md-0
@@ -246,13 +246,13 @@
                 
               .col-md-7
                 figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_13.png', alt='Texto que describa la imagen')
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_13.png', alt='')
 
             .row.justify-content-center.align-items-star.p-3
               .col-md-12.mb-4.mb-md-0
                 h4.p-3.text-center Control de medicamentos veterinarios e insumos agropecuarios
                 figure
-                  img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_36.svg', alt='Texto que describa la imagen')
+                  img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_36.svg', alt='')
             
             .row.justify-content-center.align-items-star.p-3
               .col-md-5.mb-4.mb-md-0
@@ -261,7 +261,7 @@
                 
               .col-md-7
                 figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_14.png', alt='Texto que describa la imagen')
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_14.png', alt='')
    
             .row.justify-content-center.align-items-star.p-3
               .col-md-3.mb-4.mb-md-0
@@ -270,7 +270,7 @@
                 
               .col-md-9
                 figure
-                  img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_35.svg', alt='Texto que describa la imagen')
+                  img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_35.svg', alt='')
    
 </template>
 

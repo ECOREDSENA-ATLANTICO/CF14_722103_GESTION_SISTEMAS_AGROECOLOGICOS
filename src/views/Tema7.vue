@@ -23,7 +23,7 @@
           
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img.w-100(src='@/assets/curso/images/tema7/img_2.jpg', alt='Imagen Decorativa')
+              img.w-100(src='@/assets/curso/images/tema7/img_2.jpg', alt='Muestra las Funciones de los componentes de la dieta: - Carbohidrato: energía para el cuerpo y cerebro y mantiene temperatura corporal. - Proteína: compone músculos, tejidos, enzimas, hormonas y los aminoácidos. - Minerales: regula la presión osmótica, formador de huesos y dientes se convierte en componente de las enzimas. - Vitaminas: regula la función del cuerpo. - Grasa: se convierte en energía, membrana celular y las hormonas.')
 
         p Los requerimientos de cada uno de estos componentes varían de acuerdo con el  tamaño, raza, clima y por lo general los animales grandes necesitan altos requerimientos de mantenimiento más que las especies pequeñas; este mismo caso pasa con animales jóvenes, en la etapa de crecimiento consumen alimentos,  ganan peso por día, esto va muy relacionado con la dieta suministrada. 
         
