@@ -252,7 +252,7 @@ export default {
       referencia:
         'ABC Rural (2022). La Red BPA presentó la Guía de Buenas Prácticas Ganaderas.',
       link:
-        'https://elabcrural.com/la-red-bpa-presento-la-guia-de-buenas-practicas-ganaderas/',
+        'https://redbpa.org.ar/wp-content/uploads/2020/01/EP-BuenasPracticasGanaderas.pdf',
     },
     {
       referencia:
