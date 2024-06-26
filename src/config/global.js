@@ -286,7 +286,7 @@ export default {
     {
       referencia:
         'Osorio, A. (2012) Agroecología aplicada a condiciones del trópico húmedo. Convenio SENA-Tropenbos.',
-      link: 'Downloads/Agroecologia.pdf',
+      link: 'downloads/Agroecologia.pdf',
     },
     {
       referencia:
