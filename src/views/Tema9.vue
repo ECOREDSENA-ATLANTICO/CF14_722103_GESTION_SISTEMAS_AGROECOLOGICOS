@@ -18,8 +18,8 @@
           .col-lg-12.mb-3(data-aos="fade-left")
           figure.mb-5(data-aos="fade-right")
             .video
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/46c4f8XAxDY" title="Producción pecuaria agroecológica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/lY6h5quuVpM" title="Producción pecuaria agroecológica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             
         .col-lg-10.bg-color-1.px-5.py-2.mb-3
           .h3.mx-2.mb-0.mt-4 Conservación de forrajes
         p.mb-3 La conservación de forrajes son los métodos para preservar alimento en temporadas de sequía, estos procedimientos se pueden realizar de una manera rudimentaria o tecnificada, lo importante es saber elegir la materia prima a utilizar en los diferentes procesos de conservación. Los diferentes métodos de conservación serán descritos a continuación:
