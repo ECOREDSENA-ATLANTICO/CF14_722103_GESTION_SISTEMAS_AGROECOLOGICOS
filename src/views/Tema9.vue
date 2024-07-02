@@ -8,18 +8,37 @@
           h1 Sistemas de pastoreo
                     
         .row.align-items-center.mb-5
-          .col-lg-8(data-aos="fade-right")
+          .col-lg-8.mb-4(data-aos="fade-right")
             p El pastoreo puede definirse como el consumo directo por el ganado de pastos, arbustos forrajeros y árboles. Es la forma más económica y eficiente de alimentación para la producción de carne y leche. Por lo anterior, el manejo de praderas y la rotación de los potreros es una práctica que le permite al ganadero alcanzar una mayor producción de forraje por unidad de área, permitiendo un uso sostenible del suelo, disminuyendo la presión de pastoreo y brindando un adecuado tiempo de descanso. Es importante que por ser un país ubicado en el plano ecuatorial, al llegar la época de verano deben implementarse medidas, con el fin de sostener las praderas e implementar el riego u otro método de conservación de forrajera, para satisfacer las necesidades de los animales sin verse afectada la pradera.
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             figure
               img.img-t.m-auto(src='@/assets/curso/images/tema9/img_1.png', alt='')
-      
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-12.mb-3(data-aos="fade-left")
-          figure.mb-5(data-aos="fade-right")
-            .video
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/lY6h5quuVpM" title="Producción pecuaria agroecológica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-             
+          .col-md-12.mt-2
+            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
+              .row(titulo="El pastoreo:")
+                .col-12
+                  p.mb-0 el pastoreo, consiste en un proceso o método de alimentación en la que los animales herbívoros o el ganado se coloca en un terreno para que se alimenten de pastos, plantas de menor crecimiento y otros organismos multicelulares.
+
+              .row(titulo="Pastoreo continuo:")
+                .col-12
+                  p.mb-0 es el sistema más sencillo y utilizado en explotaciones extensivas; las praderas no tienen ningún descanso y el animal solo puede ser selectivo cuando la pradera está en su máxima expresión.
+
+              .row(titulo="Pastoreo rotacional:")
+                .col-12
+                  p.mb-0 el área es dividido en dos o más con unos períodos de ocupación controlados, en este se deja un periodo de descanso con el fin que la pradera se recupere, e influyen la capacidad de carga el clima y la gramínea utilizada.
+
+              .row(titulo="Pastoreo Alternado:")
+                .col-12
+                  p.mb-0 es más fácil y consiste en dividir en dos, estas dos áreas de manejan con el mismo tiempo de ocupación y descanso y a medida que se ejecuta se divide en más lotes, por lo cual beneficia las especies que necesiten periodos más largos para recuperarse.
+                  
+              .row(titulo="Pastoreo en franjas:")
+                .col-12
+                  p.mb-0 se asigna un periodo muy corto con la utilización de cerca eléctrica y franjas, en sitios donde se puede realizar inversión económica y el espacio sea limitado.
+                                      
+              .row(titulo="Pastoreo cero o mecánico:")
+                .col-12
+                  p.mb-0 no se realiza pastoreo pues el animal esta estabulado y toda la alimentación es suplementación, muy utilizado en programas intensivo de leche.
+                    
         .col-lg-10.bg-color-1.px-5.py-2.mb-3
           .h3.mx-2.mb-0.mt-4 Conservación de forrajes
         p.mb-3 La conservación de forrajes son los métodos para preservar alimento en temporadas de sequía, estos procedimientos se pueden realizar de una manera rudimentaria o tecnificada, lo importante es saber elegir la materia prima a utilizar en los diferentes procesos de conservación. Los diferentes métodos de conservación serán descritos a continuación:
