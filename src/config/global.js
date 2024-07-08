@@ -3,12 +3,16 @@ export default {
     componenteFormativo: 'Producción pecuaria agroecológica',
     descripcionCurso:
       'Este componente permite entender los principios de la ganadería agroecológica,  asimilando conceptos y prácticas de alojamiento de las especies pecuarias de interés zootécnico, tipos,  condiciones de seguridad y habitabilidad, ubicación, orientación, áreas, dimensiones, instalaciones, capacidad instalada, equipos, bienestar animal y   buenas prácticas pecuarias, para el cuidado de los animales.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
       },
     ],
   },
