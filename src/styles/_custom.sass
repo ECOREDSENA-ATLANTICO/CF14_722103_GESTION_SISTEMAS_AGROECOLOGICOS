@@ -37,12 +37,6 @@
   height: 182px
   width: 250px
 
-.bloque-texto-g__img
-  width: 30%
-    
-.bloque-texto-g__texto
-  width: 70%
-
 .izquierda_70
   right: 30%
 
@@ -184,6 +178,46 @@
     max-height: 30px
   @media (max-width: 390px)
     width: auto 
+
+.img_slyder_1
+  background-image: url('../assets/curso/images/tema4/img_2.png');
+  margin: 0px auto;
+  
+.img_slyder_2
+  background-image: url('../assets/curso/images/tema4/img_3.png');
+  margin: 0px auto;
+  margin-top: -8px;
+
+.img_slyder_3
+  background-image: url('../assets/curso/images/tema4/img_4.png');
+  margin: 0px auto;
+  margin-top: -8px;
+
+.img_slyder
+  @media (max-width: 992px)
+    background-image: none;
+    background-color:  #EFF5D6;
+    margin: 0px auto;
+    
+  @media (max-width: 768px)
+    background-image: none;
+    background-color:  #EFF5D6;
+    margin: 0px auto;
+    
+  @media (max-width: 576px)
+    background-image: none;
+    background-color:  #EFF5D6;
+    margin: 0px auto;
+    
+  @media (max-width: 412px)
+    background-image: none;
+    background-color:  #EFF5D6;
+    margin: 0px auto;
+    
+  @media (max-width: 390px)
+    background-image: none;
+    background-color:  #EFF5D6;
+    margin: 0px auto;
 
 .bloque_texto_resp
   background-image: url("../assets/curso/images/tema1/img_3.png")
@@ -382,3 +416,62 @@
     background-color: #F6F6F6
   .acordion__activo
     background-color: #E2EACB!important
+
+.color-primario-degradado
+  background: rgb(11,72,30);
+  background: linear-gradient(90deg, rgba(11,72,30,1) 30%, rgba(173,206,50,1) 100%);
+
+table
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-family: Arial, sans-serif;
+
+th
+  border-radius: 15px 15px 0 0;
+
+th, td
+  text-align: left; /* Centra el texto horizontalmente */
+  vertical-align: middle; /* Centra el texto verticalmente */
+  padding: 15.5px; /* Añade padding a cada celda */
+
+/* Estilos específicos para la última fila */
+tr:last-child
+  td
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+  td:first-child
+    border-bottom-left-radius: 15px;
+
+  td:last-child
+    border-bottom-right-radius: 15px;
+
+.tabla_sin_padding
+  padding: 6px; /* Añade padding a cada celda */
+
+.ocultar
+  display: block;
+  @media (max-width: 992px)
+    display: none;
+  @media (max-width: 768px)
+    display: none;
+  @media (max-width: 576px)
+    display: none;
+  @media (max-width: 412px)
+    display: none;
+  @media (max-width: 390px)
+    display: none;
+
+.mostrar
+  display: none;
+  @media (max-width: 992px)
+    display: block;
+  @media (max-width: 768px)
+    display: block;
+  @media (max-width: 576px)
+    display: block;
+  @media (max-width: 412px)
+    display: block;
+  @media (max-width: 390px)
+    display: block;

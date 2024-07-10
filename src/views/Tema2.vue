@@ -71,14 +71,14 @@
 
         .row.justify-content-center
           .col-lg-8
-            .tarjeta.color-primario.p-3.mb-5
+            .tarjeta.color-primario-degradado.p-3.mb-5
               .row.justify-content-around.align-items-center
                 .col-3.col-lg-2.col-lg-1
                   img(src="@/assets/curso/images/tema2/img_4.svg")
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      p Para más información se invita a visitar la página del MinAgricultura donde presentan la normatividad Sello Ecológico: 
+                      p.text-white Para más información se invita a visitar la página del MinAgricultura donde presentan la normatividad Sello Ecológico: 
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.minagricultura.gov.co/tramites-servicios/Paginas/Normatividad-Sello-Ecologico.aspx" target="_blank")
                         span Enlace
@@ -140,17 +140,13 @@
 
         p La economía de nuestro país gira alrededor del desarrollo de los diferentes procesos que son parte de los sectores económicos primarios, secundarios y terciarios, siendo la labor agrícola y agroindustrial una de las más importantes debido a la exportación y producción de bienes de consumo que abastecen en gran medida a la canasta familiar, como lo es el consumo y producción de alimentos de origen animal como en este caso la ganadería.
 
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-12
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-              .bloque-texto-g__img(
-                :style="{'background-image': `url(${require('@/assets/curso/images/tema2/img_10.png')})`, 'width':'50%'}"
-              )
-              .bloque-texto-g__texto.p-4(
-                :style="{'width':'60%','position': 'relative', 'display': 'flex', 'justify-content': 'flex-end'}"
-              )
-                p.mb-0 Las exigencias del consumo, exportación y globalización han mostrado la necesidad de reconvertir la ganadería en un sistema de producción de alta competitividad con una visión empresarial a largo plazo y con finalidad de satisfacer la demanda a nivel nacional e internacional. <br><br> Para la implementación de los componentes de las Buenas Prácticas ganaderas se debe realizar un registro de cada una de las actividades relacionadas con el sector ganadero; además de ello se debe contar con una planilla de verificación en la cual se debe llevar control de la actividad realizada; los temas a tratar se mencionan en el siguiente recurso: 
-                          
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/images/tema2/img_10.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Las exigencias del consumo, exportación y globalización han mostrado la necesidad de reconvertir la ganadería en un sistema de producción de alta competitividad con una visión empresarial a largo plazo y con finalidad de satisfacer la demanda a nivel nacional e internacional. <br><br> Para la implementación de los componentes de las Buenas Prácticas ganaderas se debe realizar un registro de cada una de las actividades relacionadas con el sector ganadero; además de ello se debe contar con una planilla de verificación en la cual se debe llevar control de la actividad realizada; los temas a tratar se mencionan en el siguiente recurso:       
+
         .tarjeta.bg_grad-03.p-3.mb-5(data-aos="zoom-in-up")
           SlyderA(tipo="b")
   

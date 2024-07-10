@@ -66,10 +66,46 @@
         p.mb-3 Este puede ser guardado en condiciones óptimas hasta un año, lo cual beneficia la productividad de la granja y el sostenimiento de animales por hectárea. De acuerdo con el clima se utilizan las especies a ensilar.
         p.mb-5 Un silo es una estructura diseñada para almacenar grano y otros materiales a granel, son parte integrante del ciclo de acopio de la agricultura. Los más habituales tienen forma cilíndrica, asemejándose a una torre, construida de madera, hormigón armado o metal. Los tipos de silos son: 
 
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-10.mb-3(data-aos="fade-left")
-            figure
-              img.w-100(src='@/assets/curso/images/tema9/img_5.svg', alt='Imagen Decorativa')
+        .row.mb-5
+          .col-md-2.col-lg.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img(src='@/assets/curso/images/tema9/img_13.png' alt='AvatarTop')
+              .tarjeta.jumbotron-15
+                .p-4
+                  h5.text-center Silos de trinchera, de pozo o zanja: 
+                  p Se abre un hueco se recubre de un material aislante y se pone el material a ensilar, siempre debe estar cubierto evitando la entrada de aire.
+
+          .col-md-2.col-lg.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img(src='@/assets/curso/images/tema9/img_14.png' alt='AvatarTop')
+              .tarjeta.jumbotron-15
+                .p-4
+                  h5.text-center Silo de Cajón o Bunker:
+                  p Se utiliza para granjas intensivas y en lugares donde hay estaciones, por lo general es de concreto, allí se almacenan.
+
+          .col-md-2.col-lg.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img(src='@/assets/curso/images/tema9/img_15.png' alt='AvatarTop')
+              .tarjeta.jumbotron-15
+                .p-4
+                  h5.text-center Silo de Compuertas de Madera o caucho: 
+                  p Es una adecuación temporal que está recubierta con material aislante y es armado en el punto donde se cultivó el material, se desarma apenas este termina.
+
+          .col-md-2.col-lg.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img(src='@/assets/curso/images/tema9/img_16.png' alt='AvatarTop')
+              .tarjeta.jumbotron-15
+                .p-4
+                  h5.text-center Silo de Montón:
+                  p En este se recolecta el material a ensilar, es muy rudimentario, pero puede ser satisfactorio si se cubre adecuadamente.
+
+          .col-md-2.col-lg.mb-5.mb-lg-0
+            .tarjeta-avatar
+              img(src='@/assets/curso/images/tema9/img_17.png' alt='AvatarTop')
+              .tarjeta.jumbotron-15
+                .p-4
+                  h5.text-center Silos de bolsa: 
+                  p Es la manera más rudimentaria y práctica para conservar alimento.
 
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-7        
@@ -116,8 +152,8 @@
               p Se necesita usualmente un agente aglutinante para endurecer el bloque, varios productos pueden ser utilizados; cemento, cal viva (óxido de calcio, CaO), el óxido de magnesio (MgO).
 
 
-        .col-lg-10.bg-color-1.px-5.py-2.mb-3
-          .h3.mx-2.mb-0.mt-4 Otras Materias primas
+        .col-lg-10.bg-color-1.px-5.py-2.mb-5
+          .h3.mx-2.mb-5.mt-4 Otras Materias primas
           
         .row.justify-content-center.align-items-center.mb-3
           .col-md-10
