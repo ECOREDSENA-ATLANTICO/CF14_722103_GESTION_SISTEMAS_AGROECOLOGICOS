@@ -22,29 +22,29 @@
                 .row.col-md-7.col-sm-12.col-12.offset-md-12.offset-sm-5.offset-1.mb-3
                   h4.p-3.text-left.mb-3 Ciclo de la ganadería
                   .tabla
-                    table.mb-4(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
+                    table.tabla_v1.mb-4(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
                       thead
                         tr
-                          th.w-25 Especie
-                          th.w-25 Edad
-                          th.w-50 Edad
+                          th.th_v1.w-25 Especie
+                          th.th_v1.w-25 Edad
+                          th.th_v1.w-50 Edad
                       tbody
                         tr
-                          td Cría
-                          td 6 Meses
-                          td Es una etapa donde los cuidados son extremos. 
+                          td.td_v1 Cría
+                          td.td_v1 6 Meses
+                          td.td_v1 Es una etapa donde los cuidados son extremos. 
                         tr
-                          td Levante
-                          td Ciclo completo
-                          td Se caracteriza por los animales que estén por debajo de los 230 kg de peso y es una de las etapas más rentables.
+                          td.td_v1 Levante
+                          td.td_v1 Ciclo completo
+                          td.td_v1 Se caracteriza por los animales que estén por debajo de los 230 kg de peso y es una de las etapas más rentables.
                         tr
-                          td Ceba
-                          td 9 meses y se extiende desde los 24 hasta los 36 meses de edad
-                          td Doble propósito, se realiza todo el ciclo completo, pero se selecciona las hembras para leche y machos para carne.
+                          td.td_v1 Ceba
+                          td.td_v1 9 meses y se extiende desde los 24 hasta los 36 meses de edad
+                          td.td_v1 Doble propósito, se realiza todo el ciclo completo, pero se selecciona las hembras para leche y machos para carne.
                         tr
-                          td Ciclo completo
-                          td Comprende terneros, levante y la ceba (sacrificio).
-                          td Doble propósito, se realiza todo el ciclo completo, pero se selecciona las hembras para leche y machos para carne.
+                          td.td_v1 Ciclo completo
+                          td.td_v1 Comprende terneros, levante y la ceba (sacrificio).
+                          td.td_v1 Doble propósito, se realiza todo el ciclo completo, pero se selecciona las hembras para leche y machos para carne.
               
             .row.justify-content-center.align-items-star.p-3.img_slyder.img_slyder_2(
                 alt='Muestra el componente formativo el Ciclo aves de corral.'
@@ -53,40 +53,40 @@
                 .row.col-md-7.col-sm-12.col-12.offset-md-12.offset-sm-5.offset-1.mb-3
                   h4.p-3.text-left.mb-3 Ciclo aves de corral
                   .tabla
-                    table.mb-4(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
+                    table.tabla_v1.mb-4(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
                       thead
                         tr
-                          th.tabla_sin_padding.w-25 Especie
-                          th.tabla_sin_padding.w-25 Edad
-                          th.tabla_sin_padding.w-50 Edad
+                          th.th_v1.tabla_sin_padding.w-25 Especie
+                          th.th_v1.tabla_sin_padding.w-25 Edad
+                          th.th_v1.tabla_sin_padding.w-50 Edad
                       tbody
                         tr
-                          td.tabla_sin_padding Pre iniciación 
-                          td.tabla_sin_padding De los o a 10 días
-                          td.tabla_sin_padding Es una etapa donde los cuidados son extremos.
+                          td.td_v1.tabla_sin_padding Pre iniciación 
+                          td.td_v1.tabla_sin_padding De los o a 10 días
+                          td.td_v1.tabla_sin_padding Es una etapa donde los cuidados son extremos.
                         tr
-                          td.tabla_sin_padding Iniciación
-                          td.tabla_sin_padding Comprende entre los días 11 y 23.
-                          td.tabla_sin_padding Es una etapa donde los cuidados son extremos.
+                          td.td_v1.tabla_sin_padding Iniciación
+                          td.td_v1.tabla_sin_padding Comprende entre los días 11 y 23.
+                          td.td_v1.tabla_sin_padding Es una etapa donde los cuidados son extremos.
                         tr
-                          td.tabla_sin_padding Engorde
-                          td.tabla_sin_padding 24 a 42 días en adelante de vida hasta el sacrificio.
-                          td.tabla_sin_padding 90- 100 kilos peso para el sacrificio.
+                          td.td_v1.tabla_sin_padding Engorde
+                          td.td_v1.tabla_sin_padding 24 a 42 días en adelante de vida hasta el sacrificio.
+                          td.td_v1.tabla_sin_padding 90- 100 kilos peso para el sacrificio.
                         tr
-                          td.tabla_sin_padding Iniciación
-                          td.tabla_sin_padding Día 1 a la 8ª. Semana de edad.
-                          td.tabla_sin_padding(rowspan="4") Huevo comercial. <br>Prepico:. Se extiende desde el inicio de la postura hasta la semana 34.<br>
+                          td.td_v1.tabla_sin_padding Iniciación
+                          td.td_v1.tabla_sin_padding Día 1 a la 8ª. Semana de edad.
+                          td.td_v1.tabla_sin_padding(rowspan="4") Huevo comercial. <br>Prepico:. Se extiende desde el inicio de la postura hasta la semana 34.<br>
                             | Fase aproximadamente se sostiene hasta la semana 54.<br>
                             | Fase hasta 80 y 90 semanas. El alimento para esta etapa contiene más energía que los anteriores.<br>
                         tr
-                          td.tabla_sin_padding Levante
-                          td.tabla_sin_padding Desde la 9ª. Semana hasta la 16 semana 16 de vida.
+                          td.td_v1.tabla_sin_padding Levante
+                          td.td_v1.tabla_sin_padding Desde la 9ª. Semana hasta la 16 semana 16 de vida.
                         tr
-                          td.tabla_sin_padding Pre postura
-                          td.tabla_sin_padding Desde la 17 semana hasta el primer huevo.
+                          td.td_v1.tabla_sin_padding Pre postura
+                          td.td_v1.tabla_sin_padding Desde la 17 semana hasta el primer huevo.
                         tr
-                          td.tabla_sin_padding Producción
-                          td.tabla_sin_padding Hasta la semana 90
+                          td.td_v1.tabla_sin_padding Producción
+                          td.td_v1.tabla_sin_padding Hasta la semana 90
 
             .row.justify-content-center.align-items-star.p-3.img_slyder.img_slyder_3(
                 alt='Muestra el componente formativo el Ciclo de la Porcicultura.'
@@ -95,29 +95,29 @@
                 .row.col-md-7.col-sm-12.col-12.offset-md-12.offset-sm-5.offset-1.mb-4
                   h4.p-3.text-left.mb-5 Ciclo de la Porcicultura
                   .tabla
-                    table.mb-3(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
+                    table.tabla_v1.mb-3(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
                       thead
                         tr
-                          th.w-25 Especie
-                          th.w-25 Edad
-                          th.w-50 Edad
+                          th.th_v1.w-25 Especie
+                          th.th_v1.w-25 Edad
+                          th.th_v1.w-50 Edad
                       tbody
                         tr
-                          td Destete
-                          td 21 días
-                          td Es una etapa donde los cuidados son extremos
+                          td.td_v1 Destete
+                          td.td_v1 21 días
+                          td.td_v1 Es una etapa donde los cuidados son extremos
                         tr
-                          td Levante
-                          td Los 63 - 70 días
-                          td Se caracteriza por los animales peso vivo de 25 hasta 45 kilos de peso.
+                          td.td_v1 Levante
+                          td.td_v1 Los 63 - 70 días
+                          td.td_v1 Se caracteriza por los animales peso vivo de 25 hasta 45 kilos de peso.
                         tr
-                          td Ceba
-                          td 71 a los 150 días.
-                          td 90 - 100 kilos peso para el sacrificio.
+                          td.td_v1 Ceba
+                          td.td_v1 71 a los 150 días.
+                          td.td_v1 90 - 100 kilos peso para el sacrificio.
                         tr
-                          td Ciclo completo
-                          td Tres meses 
-                          td Doble propósito se realiza todo el ciclo completo, pero se selecciona las hembras para leche y machos para carne.
+                          td.td_v1 Ciclo completo
+                          td.td_v1 Tres meses 
+                          td.td_v1 Doble propósito se realiza todo el ciclo completo, pero se selecciona las hembras para leche y machos para carne.
 
 </template>
 
