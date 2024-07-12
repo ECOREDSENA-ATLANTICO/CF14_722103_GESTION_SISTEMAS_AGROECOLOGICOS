@@ -24,7 +24,7 @@
   
       .row.justify-content-justify.align-items-justify.fondo.mb-3
         figure.mb-3(data-aos="fade-right")
-          img.img-t.m-auto(src='@/assets/curso/images/introduccion/img_1.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/images/introduccion/img_1.png', alt='Imagen Decorativa')
 
         p.mb-4 La agroecología es un término que se dio a conocer a mediados de 1950, la cual mezcla las disciplinas de los agroecosistemas con el proceso agroalimentario en defensa a los territorios rurales   y los cuales busca una práctica de alternativas de sustento, bajo un manejo adecuado de los recursos naturales para la producción de alimento a las comunidades. 
         p Le damos la bienvenida al componente formativo “Producción pecuaria agroecológica”  en el siguiente video podrá conocer un poco de que se trata:

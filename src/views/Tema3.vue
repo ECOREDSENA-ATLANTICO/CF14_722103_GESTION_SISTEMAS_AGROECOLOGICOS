@@ -13,7 +13,7 @@
             p Las instalaciones y equipos disponibles para los animales deben carecer de bordes cortantes o punzantes, con el fin de no producir daño alguno en el manejo de los animales, él material utilizado para la construcción de los establos, corrales, salas, galpones, etc., debe ser un material de fácil  lavado o sobre todo que se ajuste al presupuesto de los productores. Cada instalación pecuaria debe ajustarse de acuerdo con la especie y producción a manejar y como mínimo debe estar diseñada de la siguiente manera:
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema3/img_1.png', alt='')
+              img.img-t.m-auto(src='@/assets/curso/images/tema3/img_1.png', alt='Imagen Decorativa')
 
         .row.justify-content-center.align-items-center.mb-5
           ImagenInfografica.color-acento-botones
@@ -69,7 +69,7 @@
         .row.align-items-center.mb-4
           .col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema3/img_3.png', alt='')
+              img.img-t.m-auto(src='@/assets/curso/images/tema3/img_3.png', alt='Imagen Decorativa')
           .col-lg-7(data-aos="fade-right")
             p Es importante tener en cuenta que las instalaciones se realizan de acuerdo con los sistemas y la especie a implementar, tienen unas recomendaciones que van de acuerdo con el lugar, clima y bajo condiciones que minimizan el estrés.
             p El diseño de las instalaciones usadas para alojar las especies tiene un impacto considerable sobre el bienestar de los animales, las jaulas, los corrales deben servir para asegurar la comodidad de moverse y actuar normalmente con una ventilación, acceso a alimentos y agua. Sus pisos deben tener  enrejado, este debe ser adecuado a la especie con el fin de no causar daños a los animales, y poder recolectar los residuos sólidos. Las condiciones para tener en cuenta en todo alojamiento son:
@@ -197,7 +197,7 @@
             p En la explotación de porcinos existen dos ciclos que deben tenerse en cuenta y están representados en la gráfica con dos colores: lechón: color azul el cual empieza en la zona de maternidad con el parto, continúa      en la recría y finaliza en la pista de engorde. Madre: roja la cual empieza en maternidad, luego del destete es cubierta por el reproductor luego permanece en lotes de gestación y vuelve a la maternidad.
           .col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema3/img_9.svg', alt='')
+              img.img-t.m-auto(src='@/assets/curso/images/tema3/img_9.svg', alt='Imagen Decorativa')
         
 </template>
 

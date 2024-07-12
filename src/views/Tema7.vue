@@ -13,7 +13,7 @@
             p Es importante determinar la relación nutritiva en la dieta de los animales. La relación nutritiva óptima varía en función de la edad y la actividad del animal (producción de leche, lactancia, gestación, engorde, etc.) por eso es importante conocer las funciones de cada uno en el cuerpo del animal.
           .col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema7/img_1.png', alt='')
+              img.img-t.m-auto(src='@/assets/curso/images/tema7/img_1.png', alt='Imagen Decorativa')
 
         .row.justify-content-center.align-items-center.mb-5
           .tarjeta.tarjeta--blanca.p-4.col-12

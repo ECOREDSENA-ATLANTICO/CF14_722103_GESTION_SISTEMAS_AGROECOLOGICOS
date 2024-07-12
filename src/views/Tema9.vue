@@ -12,7 +12,7 @@
             p El pastoreo puede definirse como el consumo directo por el ganado de pastos, arbustos forrajeros y árboles. Es la forma más económica y eficiente de alimentación para la producción de carne y leche. Por lo anterior, el manejo de praderas y la rotación de los potreros es una práctica que le permite al ganadero alcanzar una mayor producción de forraje por unidad de área, permitiendo un uso sostenible del suelo, disminuyendo la presión de pastoreo y brindando un adecuado tiempo de descanso. Es importante que por ser un país ubicado en el plano ecuatorial, al llegar la época de verano deben implementarse medidas, con el fin de sostener las praderas e implementar el riego u otro método de conservación de forrajera, para satisfacer las necesidades de los animales sin verse afectada la pradera.
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema9/img_1.png', alt='')
+              img.img-t.m-auto(src='@/assets/curso/images/tema9/img_1.png', alt='Imagen Decorativa')
           .col-md-12.mt-2
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
               .row(titulo="El pastoreo:")
@@ -44,23 +44,23 @@
         p.mb-3 La conservación de forrajes son los métodos para preservar alimento en temporadas de sequía, estos procedimientos se pueden realizar de una manera rudimentaria o tecnificada, lo importante es saber elegir la materia prima a utilizar en los diferentes procesos de conservación. Los diferentes métodos de conservación serán descritos a continuación:
 
         .row.justify-content-center.align-items-center.mb-3
-        .bg_2.pt-2.mb-4.col-10.m-auto.mb-5
+        .bg_2.mb-4.col-10.m-auto.mb-5.tarjeta.p-3
           .row
             .col-lg-5.mb-0(data-aos="fade-left")
               figure
-                img.w-100(src='@/assets/curso/images/tema9/img_3.png', alt='Imagen Decorativa')
+                img.w-100.mb-2(src='@/assets/curso/images/tema9/img_3.png', alt='Imagen Decorativa')
             .col-lg-7.align-self-center.mb-4
-              p.text-bold El Heno:
+              p.mb-0.text-bold El Heno:
               | es cultivar forraje el cual se cosecha como cualquier producto y luego se almacena, proceso por el cual se disminuye el porcentaje de humedad y es guardado para la temporada de verano; ese hace con secado al sol y luego es recolectado en pacas para su fácil distribución. 
 
         .row.justify-content-center.align-items-center.mb-3
-        .bg_2.pt-2.mb-4.col-10.m-auto.mb-5
+        .bg_2.mb-4.col-10.m-auto.mb-5.tarjeta.p-3
           .row
             .col-lg-5.mb-0(data-aos="fade-left")
               figure
-                img.w-100(src='@/assets/curso/images/tema9/img_4.png', alt='Imagen Decorativa')
+                img.w-100.mb-2(src='@/assets/curso/images/tema9/img_4.png', alt='Imagen Decorativa')
             .col-lg-7.align-self-center.mb-4
-              p.text-bold El Ensilaje:
+              p.mb-0.text-bold El Ensilaje:
               | es un método de conservación de forraje y se realiza bajo un método de fermentación láctica microbiana en ausencia de oxígeno, donde se expone a altas temperaturas internas con el fin de impedir las bacterias malignas y solo permanezcan los microorganismos benéficos. Este proceso aumenta la digestibilidad, palatabilidad, contenido de vitamina A del producto ensilado. 
           
         p.mb-3 Este puede ser guardado en condiciones óptimas hasta un año, lo cual beneficia la productividad de la granja y el sostenimiento de animales por hectárea. De acuerdo con el clima se utilizan las especies a ensilar.
@@ -161,7 +161,7 @@
               .col-lg-5.mb-3
                 .tarjeta-avatar-b.mb-2
                   .tarjeta-avatar-b__img
-                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_7.svg', alt='')
+                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_7.svg', alt='Imagen Decorativa')
                   .tarjeta.jumbotron-15.shadow-sm
                     .p-3
                       p 
@@ -170,7 +170,7 @@
               .col-lg-7.mb-3
                 .tarjeta-avatar-b.mb-3
                   .tarjeta-avatar-b__img
-                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_8.svg', alt='')
+                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_8.svg', alt='Imagen Decorativa')
                   .tarjeta.jumbotron-15.shadow-sm
                     .p-4
                       p 
@@ -180,7 +180,7 @@
               .col-lg-4.mb-3
                 .tarjeta-avatar-b.mb-2
                   .tarjeta-avatar-b__img
-                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_9.svg', alt='')
+                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_9.svg', alt='Imagen Decorativa')
                   .tarjeta.jumbotron-15.shadow-sm
                     .p-4
                       p 
@@ -190,7 +190,7 @@
               .col-lg-4.mb-3            
                 .tarjeta-avatar-b.mb-2
                   .tarjeta-avatar-b__img
-                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_10.svg', alt='')
+                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_10.svg', alt='Imagen Decorativa')
                   .tarjeta.jumbotron-15.shadow-sm
                     .p-4
                       p 
@@ -200,7 +200,7 @@
               .col-lg-4.mb-3            
                 .tarjeta-avatar-b.mb-2
                   .tarjeta-avatar-b__img
-                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_11.svg', alt='')
+                    img.img-t.m-auto(src='@/assets/curso/images/tema9/img_11.svg', alt='Imagen Decorativa')
                   .tarjeta.jumbotron-15.shadow-sm
                     .p-3
                       p 

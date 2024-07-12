@@ -15,7 +15,7 @@
                 
         .col-md-5 
           figure
-            img.img-t.m-auto(src='@/assets/curso/images/tema1/img_2.png', alt='')
+            img.img-t.m-auto(src='@/assets/curso/images/tema1/img_2.png', alt='Imagen Decorativa')
         .col-md-7
           p.m-0 El objetivo de  los sistemas agroecológicos en la ganadería es alcanzar una armonía simbiótica entre agricultura y ganadería,  para  aprovechar los recursos renovables que el suelo proporciona, generando un potencial genético de las razas autóctonas de la región, fuentes de alimento como gramíneas y leguminosas que proporciona el lugar y que sean obtenidos por procedimientos ecológicos, sanidad preventiva y de tipo homeopática, con poca intervención de los medicamentos convencionales.
 
@@ -41,7 +41,7 @@
               p.m-0.mt-4 Se prohíbe la utilización de herbicidas en las pasturas y el control se realizará mediante un método de manejo de rotación de potreros, la fertilización será de una manera ecológica no nociva para el medio ambiente y los animales.
             .col-lg-2    
               figure
-                img.img-t.m-auto.w-100(src='@/assets/curso/images/tema1/img_4.svg', alt='')
+                img.img-t.m-auto.w-100(src='@/assets/curso/images/tema1/img_4.svg', alt='Imagen Decorativa')
       
 </template>
 

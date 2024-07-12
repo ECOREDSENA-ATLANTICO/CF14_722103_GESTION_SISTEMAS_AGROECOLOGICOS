@@ -13,7 +13,7 @@
             p Estos pueden asociarse con gramíneas el manejo de estas pasturas exige el conocimiento por parte del productor pues la relación planta/animal debe tener en cuenta factores como cantidad de forraje por hectárea que es determinada por el encargado de la finca mediante aforos constantes de igual manera es necesario saber la composición de la pradera a elección, cantidad de animales por hectárea que puede sostener esa pradera y por último el tipo de pastoreo que se va utilizar con el fin de ofrecerle al animal un producto de excelente calidad y bajo todos los parámetros técnicos establecidos.
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema8/img_1.png', alt='')
+              img.img-t.m-auto(src='@/assets/curso/images/tema8/img_1.png', alt='Imagen Decorativa')
 
         .row.justify-content-center.align-items-center.mb-3
           .bg_3.pt-2.mb-4.col-10.m-auto.mb-5

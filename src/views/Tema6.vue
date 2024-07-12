@@ -21,7 +21,7 @@
     
         .row.justify-content-justify.align-items-justify.fondo.mb-3
           figure.mb-3(data-aos="fade-right")
-            img.img-t.m-auto(src='@/assets/curso/images/tema6/img_1.png', alt='')
+            img.img-t.m-auto(src='@/assets/curso/images/tema6/img_1.png', alt='Imagen Decorativa')
 
           p.mb-4 El programa de alimentos agroecológicos está enfocado a los alimentos que brinda el medio ambiente de forma natural y sin ninguna intervención de agroquímicos, este sistema busca optimizar la producción de los predios que utilicen este sistema al brindar alimento. Las bondades de este sistema son: aumento de ganancia de peso diario y la disminución del estrés por parte de los animales, con el sombrío que proporcionan los árboles utilizados; a esto se le suma la disminución de los gastos al no utilizar ningún producto a base de agroquímicos.
               
@@ -31,7 +31,7 @@
             p Otra práctica muy común es la utilización de árboles frutales,  los animales sirven como controladores de maleza,  pues ingieren los frutos que caen al suelo alimentándose de estos y evitando el aumento de las moscas, por último los sistemas silvopastoriles, están conformados por gramíneas y leguminosas que aportan nitrógeno al suelo por las asociaciones que permiten la cobertura de materia orgánica, al utilizar varias especies en el predio, también se llama (policultivos), lo único que se necesita es una administración de los recursos. Los sistemas silvopastoriles pueden reducir considerablemente los impactos ambientales.
           .col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_2.png', alt='')
+              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_2.png', alt='Imagen Decorativa')
 
         Separador
 
@@ -96,7 +96,7 @@
           .col-lg-8(data-aos="fade-right")
             .tarjeta-avatar-b.mb-3
               .tarjeta-avatar-b__img
-                img.mt-3.img-t.m-auto(src='@/assets/curso/images/tema6/img_8.svg', alt='')
+                img.mt-3.img-t.m-auto(src='@/assets/curso/images/tema6/img_8.svg', alt='Imagen Decorativa')
               .tarjeta.jumbotron-15.shadow-sm
                 p.p-5 Otro dato importante es que las gallinas ponedoras solo requieren entre 2.30 horas a 12 horas recorrer todo el trayecto digestivo.
 
