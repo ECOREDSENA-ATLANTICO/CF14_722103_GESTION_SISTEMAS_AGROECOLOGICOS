@@ -85,7 +85,7 @@
           .col-lg-12.mb-3(data-aos="fade-left")
           figure.mb-5(data-aos="fade-right")
             .video
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/lY6h5quuVpM" title="Producción pecuaria agroecológica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe width="853" height="480" src="https://www.youtube.com/embed/pfK4Y0xCZ74" title="Sistema digestivo en monogástrico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
              
         .row.align-items-center.mb-5
           .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")

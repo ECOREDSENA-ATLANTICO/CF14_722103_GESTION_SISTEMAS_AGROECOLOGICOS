@@ -32,7 +32,9 @@
       .row.justify-content-center.align-items-center.fondo.mb-3
         figure.mb-5(data-aos="fade-right")
           .video
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/cZUTJNaDwFo" title="Producción pecuaria agroecológica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/fYBTaOYlEvE" title="Producción pecuaria agroecológica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            
   
 </template>
 
