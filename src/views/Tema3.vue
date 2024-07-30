@@ -34,10 +34,10 @@
               p Área de desinfección (entrada).
 
             .tarjeta.color-acento-botones.p-3(x="81.5%" y="26.8%" numero="5")
-              p Corrales y potreros para los animales
+              p Corrales y potreros para los animales.
 
             .tarjeta.color-acento-botones.p-3(x="12.5%" y="54.7%" numero="6")
-              p Una cerca perimetral
+              p Una cerca perimetral.
 
             .tarjeta.color-acento-botones.p-3(x="32.3%" y="57%" numero="7")
               p Zonas de cuarentena.
@@ -55,7 +55,7 @@
               p Área de galpones.
 
             .tarjeta.color-acento-botones.p-3(x="32.5%" y="81.5%" numero="12")
-              p Pasillo y rampas de movilización de animales
+              p Pasillo y rampas de movilización de animales.
 
             .tarjeta.color-acento-botones.p-3(x="48%" y="79.5%" numero="13")
               p Pediluvios en zonas de entrada a las diferentes áreas.
@@ -137,7 +137,7 @@
                   td Reproductor (6 meses) Engorde (40 días)
                   td Reproductor (6 meses) Engorde (40 días)
                 tr
-                  td Ovinos y caprinos
+                  td Ovinos y Caprinos
                   td 2 meses
                   td 2 meses
                   td 2 meses
@@ -150,12 +150,12 @@
         p En porcinos, espacio requerido por cerdo, es de acuerdo con las etapas del cerdo en las instalaciones son:         
         
         .row.justify-content-center.align-items-center.mb-5
-          .tarjeta.tarjeta--blanca.p-4.col-8
+          .tarjeta.tarjeta--blanca.p-4.col-lg-8
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Tabla 3.
               span Espacio requerido por cerdo
           
-          .tabla.col-8.text-center
+          .tabla.col-lg-8.text-center.mb-3
             table
               thead
                 tr.jumbotron-14
@@ -163,7 +163,7 @@
                   th Edad
               tbody
                 tr
-                  td.jumbotron-20 Bovinos, Bufalinos y potros
+                  td.jumbotron-20 Bovinos, Bufalinos y Potros
                   td.jumbotron-20 6 Meses
                 tr
                   td.jumbotron-20 Ponedoras
@@ -175,11 +175,21 @@
                   td.jumbotron-20 Cerdos
                   td.jumbotron-20 Reproductor (6 meses) Engorde (40 días)
                 tr
-                  td.jumbotron-20 Ovinos y caprinos
+                  td.jumbotron-20 Ovinos y Caprinos
                   td.jumbotron-20 2 meses
                 tr
                   td.jumbotron-20 Conejos
                   td.jumbotron-20 1 mes
+          
+          .col-lg-8.mb-3
+            p.mb-3 Cuando se alterna con animales en pastoreo, el espacio es: 
+              ul.lista-ul--color
+                li 
+                  i.fas.fa-check
+                  | Las hembras reproducción: 200 a 400 metros según los potreros de pastoreo. 
+                li 
+                  i.fas.fa-check
+                  | Los machos reproductores: 150 a 400 metros según los potreros de pastoreo y la raza.  
 
         .row.justify-content-center.align-items-center.mb-5
           .tarjeta.tarjeta--blanca.p-4.col-12

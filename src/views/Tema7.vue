@@ -9,7 +9,7 @@
                     
         .row.align-items-center.mb-4
           .col-lg-7(data-aos="fade-right")
-            p La nutrición Animal estudia las reacciones bioquímicas y procesos fisiológicos del alimento proporcionado por los productores y este se transforma en el producto (leche, carne, trabajo); cualquier deficiencia afecta directamente el vigor híbrido del animal y por consiguiente es uno de los eslabones más importantes en la producción animal. La alimentación es el proceso de suministro alimenticio,  este debe estar en excelentes condiciones y con la capacidad de suplir las necesidades y requerimientos en todas las etapas fisiológicas de los animales.
+            p La nutrición animal estudia las reacciones bioquímicas y procesos fisiológicos del alimento proporcionado por los productores y este se transforma en el producto (leche, carne, trabajo); cualquier deficiencia afecta directamente el vigor híbrido del animal y por consiguiente es uno de los eslabones más importantes en la producción animal. La alimentación es el proceso de suministro alimenticio,  este debe estar en excelentes condiciones y con la capacidad de suplir las necesidades y requerimientos en todas las etapas fisiológicas de los animales.
             p Es importante determinar la relación nutritiva en la dieta de los animales. La relación nutritiva óptima varía en función de la edad y la actividad del animal (producción de leche, lactancia, gestación, engorde, etc.) por eso es importante conocer las funciones de cada uno en el cuerpo del animal.
           .col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
             figure

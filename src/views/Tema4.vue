@@ -21,21 +21,21 @@
               table.tabla_v1.mb-4(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
                 thead
                   tr
-                    th.th_v1.w-25 Especie
-                    th.th_v1.w-25 Edad
-                    th.th_v1.w-50 Edad
+                    th.th_v1.w-25 Etapa 
+                    th.th_v1.w-25 Característica 
+                    th.th_v1.w-50 Observaciones 
                 tbody
                   tr
                     td.td_v1 Cría
-                    td.td_v1 6 Meses
+                    td.td_v1 Nacimiento – 6 meses.
                     td.td_v1 Es una etapa donde los cuidados son extremos. 
                   tr
                     td.td_v1 Levante
-                    td.td_v1 Ciclo completo
+                    td.td_v1 6 meses a 18 meses.
                     td.td_v1 Se caracteriza por los animales que estén por debajo de los 230 kg de peso y es una de las etapas más rentables.
                   tr
                     td.td_v1 Ceba
-                    td.td_v1 9 meses y se extiende desde los 24 hasta los 36 meses de edad
+                    td.td_v1 9 meses y se extiende desde los 24 hasta los 36 meses de edad.
                     td.td_v1 Doble propósito, se realiza todo el ciclo completo, pero se selecciona las hembras para leche y machos para carne.
                   tr
                     td.td_v1 Ciclo completo
@@ -49,13 +49,13 @@
               table.tabla_v1.mb-4(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
                 thead
                   tr
-                    th.th_v1.tabla_sin_padding.w-25 Especie
-                    th.th_v1.tabla_sin_padding.w-25 Edad
-                    th.th_v1.tabla_sin_padding.w-50 Edad
+                    th.th_v1.tabla_sin_padding.w-25 Etapa
+                    th.th_v1.tabla_sin_padding.w-25 Característica
+                    th.th_v1.tabla_sin_padding.w-50 Observaciones
                 tbody
                   tr
                     td.td_v1.tabla_sin_padding Pre iniciación 
-                    td.td_v1.tabla_sin_padding De los o a 10 días
+                    td.td_v1.tabla_sin_padding De los 0 a 10 días
                     td.td_v1.tabla_sin_padding Es una etapa donde los cuidados son extremos.
                   tr
                     td.td_v1.tabla_sin_padding Iniciación
@@ -68,7 +68,7 @@
                   tr
                     td.td_v1.tabla_sin_padding Iniciación
                     td.td_v1.tabla_sin_padding Día 1 a la 8ª. Semana de edad.
-                    td.td_v1.tabla_sin_padding(rowspan="4") Huevo comercial. <br>Prepico:. Se extiende desde el inicio de la postura hasta la semana 34.<br>
+                    td.td_v1.tabla_sin_padding(rowspan="4") Huevo comercial prepico: Se extiende desde el inicio de la postura hasta la semana 34.<br>
                       | Fase aproximadamente se sostiene hasta la semana 54.<br>
                       | Fase hasta 80 y 90 semanas. El alimento para esta etapa contiene más energía que los anteriores.<br>
                   tr
@@ -89,17 +89,17 @@
               table.tabla_v1.mb-3.mb-lg-5(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
                 thead
                   tr
-                    th.th_v1.w-25 Especie
-                    th.th_v1.w-25 Edad
-                    th.th_v1.w-50 Edad
+                    th.th_v1.w-25 Etapa 
+                    th.th_v1.w-25 Característica 
+                    th.th_v1.w-50 Observaciones 
                 tbody
                   tr
                     td.td_v1 Destete
-                    td.td_v1 21 días
+                    td.td_v1 21 días.
                     td.td_v1 Es una etapa donde los cuidados son extremos
                   tr
                     td.td_v1 Levante
-                    td.td_v1 Los 63 - 70 días
+                    td.td_v1 Los 63 - 70 días.
                     td.td_v1 Se caracteriza por los animales peso vivo de 25 hasta 45 kilos de peso.
                   tr
                     td.td_v1 Ceba
@@ -107,7 +107,7 @@
                     td.td_v1 90 - 100 kilos peso para el sacrificio.
                   tr
                     td.td_v1 Ciclo completo
-                    td.td_v1 Tres meses 
+                    td.td_v1 Tres meses. 
                     td.td_v1 Doble propósito se realiza todo el ciclo completo, pero se selecciona las hembras para leche y machos para carne.
 
 </template>

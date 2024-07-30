@@ -8,7 +8,7 @@
           h1 Normatividad de la producción agropecuaria ecológica
         
         .row.justify-content-center.align-items-center.mb-0
-          p.mb-3 Los sistemas de producción de la ganadería agroecológica están enfocados en el suelo como factor determinante para producir un alimento de origen animal con unas características de inocuidad y de calidad. Los principios básicos de la agroecología son:
+          p.mb-3 En Colombia se denomina un paso de reconversión cuando pasa de un modelo tradicional a un proceso netamente ecológico en el cual el predio, empresa o persona debe iniciar un proceso de inscripción al programa de certificación de cultivos o producciones, reciben el nombre de "Producto Agropecuario Ecológico", este proceso debe durar dos años para recibir la primera cosecha en cultivos transitorios y tres años para cultivos permanentes. 
           
         .row.justify-content-center.align-items-center.mb-0
           .bg_1.pt-2.mb-4.col-10
@@ -23,7 +23,7 @@
           .tarjeta.tarjeta--blanca.p-4.col-10
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Tabla 1. 
-              span  Cuadro Edades de las especies a introducir
+              span  Edades de las especies a introducir
   
           .tabla.text-center.col-10
             table(alt='Muestra la tabla de los cuadro edades de las especies a introducir.')
@@ -33,7 +33,7 @@
                   th Edad
               tbody
                 tr
-                  td.jumbotron-20 Bovinos, Bufalinos y potros
+                  td.jumbotron-20 Bovinos, Bufalinos y Potros
                   td.jumbotron-20 6 Meses
                 tr
                   td.jumbotron-20 Ponedoras
@@ -45,7 +45,7 @@
                   td.jumbotron-20 Cerdos
                   td.jumbotron-20 Reproductor (6 meses) Engorde (40 días)
                 tr
-                  td.jumbotron-20 Ovinos y caprinos
+                  td.jumbotron-20 Ovinos y Caprinos
                   td.jumbotron-20 2 meses
                 tr
                   td.jumbotron-20 Conejos
@@ -153,7 +153,7 @@
             .row.justify-content-center.align-items-star.p-3
               .col-md-12.mb-4.mb-md-0
                 h4.p-3 Sanidad animal y bioseguridad
-                p.p-3.mb-2 Es importante que cada empresa bovina dedicada la producción de carne cumpla con los siguientes requerimientos.
+                p.p-3.mb-2 Es importante que cada empresa bovina dedicada a la producción de carne cumpla con los siguientes requerimientos.
               
                 .row.justify-content-center.align-items-star
                   .col-lg-4
@@ -161,7 +161,7 @@
                       ol.lista-ol--cuadro.lista-ol--separador
                         li 
                           .lista-ol
-                            span Constancia de Inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
+                            span Constancia de inscripción del predio ante el Instituto Colombiano Agropecuario (ICA).
                         li 
                           .lista-ol
                             span Registro único de vacunación (RUV) por la federación colombiana de ganaderos (Fedegan). 

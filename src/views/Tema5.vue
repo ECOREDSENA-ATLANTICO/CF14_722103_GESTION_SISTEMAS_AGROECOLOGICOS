@@ -12,7 +12,7 @@
             figure
               img.img-t.m-auto(src='@/assets/curso/images/tema5/img_1.png', alt='Imagen Decorativa')
           .col-lg-7(data-aos="fade-right")
-            p En las producciones pecuarias es fundamental contar con los equipos necesarios para facilitar las tareas y actividades diarias, los equipos como básculas, comederos, bebederos, jeringas, los biberones, las pipetas, los termómetros, las pinzas, entre otros. Todos estos se van adquiriendo durante el proceso de la implementación, pero van a cumplir una función en pro a la eficacia y rentabilidad del producto final. Cabe resaltar que la necesidad depende de la producción en la que se va a implementar, pues si es una ganadería de leche, la necesidad de equipos va relacionada con el ordeño y esta es diferente para una de pollos de engorde. Estos equipos e instrumentos se describen en la siguiente galería: 
+            p En las producciones pecuarias es fundamental contar con los equipos necesarios para facilitar las tareas y actividades diarias. Los equipos como básculas, comederos, bebederos, jeringas, los biberones, las pipetas, los termómetros, las pinzas, entre otros. Todos estos se van adquiriendo durante el proceso de la implementación, pero van a cumplir una función en pro a la eficacia y rentabilidad del producto final. Cabe resaltar que la necesidad depende de la producción en la que se va a implementar, pues si es una ganadería de leche, la necesidad de equipos va relacionada con el ordeño y esta es diferente para una de pollos de engorde. Estos equipos e instrumentos se describen en la siguiente galería: 
         
         SlyderF(columnas="col-lg-6 col-xl-3 col-sm-6").mb-5
           .tarjeta.jumbotron 
@@ -29,7 +29,7 @@
                 img.img_t(src='@/assets/curso/images/tema5/img_3.png' alt='Imagen Decorativa')
             p.p-4 
               span.text-bold Comederos: 
-              | son equipos útiles para el manejo de la alimentación y se adecuan de acuerdo a la etapa del animal.  
+              | son equipos útiles para el manejo de la alimentación y se adecúan de acuerdo a la etapa del animal.
 
           .tarjeta.jumbotron 
             .row.justify-content-center
@@ -37,7 +37,7 @@
                 img.img_t(src='@/assets/curso/images/tema5/img_4.png' alt='Imagen Decorativa')
             p.p-4 
               span.text-bold Bebederos: 
-              | son equipos útiles para el manejo de la alimentación y se adecuan de acuerdo con la etapa del animal.
+              | son equipos útiles para el manejo de la alimentación y se adecúan de acuerdo con la etapa del animal.
 
           .tarjeta.jumbotron 
             .row.justify-content-center
@@ -68,7 +68,7 @@
               .col-12
                 img.img_t(src='@/assets/curso/images/tema5/img_9.png' alt='Imagen Decorativa')
             p.p-4 
-              span.text-bold Termómetro: 
+              span.text-bold Termómetros: 
               | elemento indispensable para la toma de temperatura corporal en caso de animales enfermos, en campo hay termómetros digitales con infrarrojo o rectales.
 
           .tarjeta.jumbotron 
@@ -85,7 +85,7 @@
                 img.img_t(src='@/assets/curso/images/tema5/img_11.png' alt='Imagen Decorativa')
             p.p-4.text-small 
               span.text-bold Otros: 
-              | de acuerdo con la actividad se utilizan equipos y herramientas necesarios para la ejecución de las actividades diarias, un ejemplo en los programas de reproducción se necesitará guantes de palpar, pajillas de inseminar, pistola de inseminar, tijeras. En la parte de sanidad son necesarios los implementos necesarios como fonendo, guantes desechables, tijeras, agujas hipodérmicas, medicamentos entre otros.
+              | de acuerdo con la actividad se utilizan equipos y herramientas necesarios para la ejecución de las actividades diarias. Un ejemplo, en los programas de reproducción se necesitará guantes de palpar, pajillas de inseminar, pistola de inseminar, tijeras. En la parte de sanidad son necesarios los implementos como fonendo, guantes desechables, tijeras, agujas hipodérmicas, medicamentos entre otros.
 
         p Es importante tener en cuenta que depende de la inversión y proyección del proyecto,  si se va a establecer una producción intensiva, los equipos, herramientas e insumos son mayores y de última tecnología, lo cual incrementará el valor de adquisición de los productos y estos están muy relacionados con las buenas prácticas ganaderas.
         
@@ -97,7 +97,7 @@
           
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img(src='@/assets/curso/images/tema5/img_6.svg', alt='Muestra BPG-VC en la producción: Las personas y la empresa • Organización de la empresa • Personal La infraestructura de producción • Establecimiento • Instalaciones equipos y herramientas El animal y su manejo • Manejo del rodeo • Aumentación • Salud animal • Bienestar animal El ambiente y la producción • Sumo, agua, formes • Gestión de estiércol y efluentes • Gestión de los residuos. Adaptación y mitigación al cambio climático.')
+              img(src='@/assets/curso/images/tema5/img_6.png', alt='Muestra BPG-VC en la producción: Las personas y la empresa • Organización de la empresa • Personal La infraestructura de producción • Establecimiento • Instalaciones equipos y herramientas El animal y su manejo • Manejo del rodeo • Aumentación • Salud animal • Bienestar animal El ambiente y la producción • Sumo, agua, formes • Gestión de estiércol y efluentes • Gestión de los residuos. Adaptación y mitigación al cambio climático.')
               figcaption Nota. ABC Rural (2022). La Red BPA presentó la Guía de Buenas Prácticas Ganaderas.
         
         //- .row.justify-content-center.align-items-center.mb-3

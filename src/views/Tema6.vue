@@ -6,19 +6,7 @@
           .titulo-principal__numero 
             span 6
           h1 Programa de alimentación agroecológica 
-        
-        //- .row.justify-content-center.align-items-center.mb-5
-        //-   .col-lg-12.mb-4
-        //-     .bloque-texto-g.p-3.p-sm-4.p-md-5
-        //-       .bloque-texto-g__img(
-        //-         :style="{'background-image': `url(${require('@/assets/curso/images/tema6/img_1.png')})`, 'width': '100%', 'height':'249px'}"
-        //-       )
-        //-   .col-lg-9.mb-5
-        //-     .bloque-texto-g__texto.p-4.jumbotron-6(
-        //-       :style="{'top': '75px', 'position': 'relative', 'width':'100%'}"
-        //-     )
-        //-       p.mb-0 El programa de alimentos agroecológicos está enfocado a los alimentos que brinda el medio ambiente de forma natural y sin ninguna intervención de agroquímicos, este sistema busca optimizar la producción de los predios que utilicen este sistema al brindar alimento. Las bondades de este sistema son: aumento de ganancia de peso diario y la disminución del estrés por parte de los animales, con el sombrío que proporcionan los árboles utilizados; a esto se le suma la disminución de los gastos al no utilizar ningún producto a base de agroquímicos.
-    
+
         .row.justify-content-justify.align-items-justify.fondo.mb-3
           figure.mb-3(data-aos="fade-right")
             img.img-t.m-auto(src='@/assets/curso/images/tema6/img_1.png', alt='Imagen Decorativa')
@@ -60,7 +48,7 @@
               figure
                 img.w-100(src='@/assets/curso/images/tema6/img_4.svg', alt='Imagen Decorativa')
             .col-lg-8.align-self-center.mb-4
-              p.m-3 Los animales que se categorizan como rumiantes son los bovinos, ovinos y caprinos los cuales funcionan así. Los rumiantes son fácilmente identificados porque mastican la comida aun cuando no ingieren alimentos, esta acción de masticación se llama rumia, se realiza para destruir las partículas de fibra y producir  saliva (bicarbonato y fosfato) que neutralizan las grandes cantidades de ácido producidas por la fermentación. En la siguiente imagen se detallan cada uno de los estómagos de los rumiantes: 
+              p.m-3 Los animales que se categorizan como rumiantes son los bovinos, ovinos y caprinos los cuales funcionan así: Los rumiantes son fácilmente identificados porque mastican la comida aún cuando no ingieren alimentos, esta acción de masticación se llama rumia, se realiza para destruir las partículas de fibra y producir  saliva (bicarbonato y fosfato) que neutralizan las grandes cantidades de ácido producidas por la fermentación. En la siguiente imagen se detalla cada uno de los estómagos de los rumiantes: 
 
         .row.align-items-center.mb-5
           .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
@@ -69,7 +57,7 @@
 
         .row.align-items-center.mb-4
           .col-lg-6(data-aos="fade-left")
-            p En los procesos que se desarrollan en el estómago del rumiante, una vaca puede producir hasta 180 litros de saliva, la cual es amortiguador, con el fin de mantener una acidez neutral que favorece la digestión de la fibra, en este proceso de fermentación hay un resultado de producción de ácidos grasos de ácidos volátiles (AGV) y este es una fuente de energía para la vaca y  un precursor de los triglicéridos y azúcares      de leche (lactosa).
+            p En los procesos que se desarrollan en el estómago del rumiante, una vaca puede producir hasta 180 litros de saliva, la cual es amortiguador, con el fin de mantener una acidez neutral que favorece la digestión de la fibra, en este proceso de fermentación hay un resultado de producción de ácidos grasos de ácidos volátiles (AGV) y este es una fuente de energía para la vaca y un precursor de los triglicéridos y azúcares de leche (lactosa).
           .col-lg-6.mb-0(data-aos="fade-left")
             figure
               img.img-t.m-auto(src='@/assets/curso/images/tema6/img_6.png', alt='Imagen Decorativa')
