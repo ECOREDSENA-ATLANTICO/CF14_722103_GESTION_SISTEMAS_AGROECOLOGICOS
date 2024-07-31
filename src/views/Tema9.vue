@@ -132,20 +132,20 @@
               p la melaza no sólo es una fuente rica en azúcares y minerales especialmente en potasio, sino que además funciona como saborizante y solidificante del bloque; otras fuentes de energía lo son harina de yuca, grano molido de maíz o sorgo.
 
             .tarjeta.color-acento-botones.p-3(x="17%" y="53.1%" numero="2")
-              .h5.mb-2 Material fibroso:
-              p la fibra ayuda al proceso de solidificación y absorción de la humedad contenida en la melaza. 
+              .h5.mb-2 Fuente de nitrógeno no proteico (NNP):
+                p se puede usar la urea, al llegar este compuesto al rumen, libera amonio, el cual es un nutriente esencial para el crecimiento de las bacterias presentes en el rumen, pero no debe exceder del 10%. 
 
             .tarjeta.color-acento-botones.p-3(x="35.2%" y="64.5%" numero="3")
+              .h5.mb-2 Fuentes de proteína: 
+              p se tienen las semillas enteras y harinas o tortas de algunas oleaginosas, como el algodón, maní y ajonjolí. Se pueden usar hojas y frutos de leguminosas.
+              
+            .tarjeta.color-acento-botones.p-3(x="50.5%" y="46%" numero="4")
               .h5.mb-2 Mezcla mineral:
               p el suministro de la sal mineralizada provee junto con los otros componentes a nivel ruminal un suplemento más completo.
 
-            .tarjeta.color-acento-botones.p-3(x="50.5%" y="46%" numero="4")
-              .h5.mb-2 Fuente de nitrógeno no proteico (NNP):
-              p se puede usar la urea, al llegar este compuesto al rumen, libera amonio, el cual es un nutriente esencial para el crecimiento de las bacterias presentes en el rumen, pero no debe exceder del 10%. 
-
             .tarjeta.color-acento-botones.p-3(x="70.5%" y="62.5%" numero="5")
-              .h5.mb-2 Fuentes de proteína: 
-              p se tienen las semillas enteras y harinas o tortas de algunas oleaginosas, como el algodón, maní y ajonjolí. Se pueden usar hojas y frutos de leguminosas.
+              .h5.mb-2 Material fibroso:
+              p la fibra ayuda al proceso de solidificación y absorción de la humedad contenida en la melaza. 
 
             .tarjeta.color-acento-botones.p-3(x="73.2%" y="18.5%" numero="6")
               .h5.mb-2 Agente ligante:
