@@ -51,7 +51,7 @@
                 img.w-100.mb-2(src='@/assets/curso/images/tema9/img_3.png', alt='Imagen Decorativa')
             .col-lg-7.align-self-center.mb-4
               p.mb-0.text-bold El Heno:
-              | es cultivar forraje el cual se cosecha como cualquier producto y luego se almacena, proceso por el cual se disminuye el porcentaje de humedad y es guardado para la temporada de verano; ese hace con secado al sol y luego es recolectado en pacas para su fácil distribución. 
+              | es cultivar forraje el cual se cosecha como cualquier producto y luego se almacena, proceso por el cual se disminuye el porcentaje de humedad y es guardado para la temporada de verano; se hace con secado al sol y luego es recolectado en pacas para su fácil distribución. 
 
         .row.justify-content-center.align-items-center.mb-3
         .bg_2.mb-4.col-10.m-auto.mb-5.tarjeta.p-3
@@ -73,7 +73,7 @@
               .tarjeta.jumbotron-15
                 .p-4
                   h5.text-center Silos de trinchera, de pozo o zanja: 
-                  p Se abre un hueco se recubre de un material aislante y se pone el material a ensilar, siempre debe estar cubierto evitando la entrada de aire.
+                  p se abre un hueco se recubre de un material aislante y se pone el material a ensilar, siempre debe estar cubierto evitando la entrada de aire.
 
           .col-md-2.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
@@ -81,7 +81,7 @@
               .tarjeta.jumbotron-15
                 .p-4
                   h5.text-center Silo de Cajón o Bunker:
-                  p Se utiliza para granjas intensivas y en lugares donde hay estaciones, por lo general es de concreto, allí se almacenan.
+                  p se utiliza para granjas intensivas y en lugares donde hay estaciones, por lo general es de concreto, allí se almacenan.
 
           .col-md-2.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
@@ -89,7 +89,7 @@
               .tarjeta.jumbotron-15
                 .p-4
                   h5.text-center Silo de Compuertas de Madera o caucho: 
-                  p Es una adecuación temporal que está recubierta con material aislante y es armado en el punto donde se cultivó el material, se desarma apenas este termina.
+                  p es una adecuación temporal que está recubierta con material aislante y es armado en el punto donde se cultivó el material, se desarma apenas este termina.
 
           .col-md-2.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
@@ -97,7 +97,7 @@
               .tarjeta.jumbotron-15
                 .p-4
                   h5.text-center Silo de Montón:
-                  p En este se recolecta el material a ensilar, es muy rudimentario, pero puede ser satisfactorio si se cubre adecuadamente.
+                  p en este se recolecta el material a ensilar, es muy rudimentario, pero puede ser satisfactorio si se cubre adecuadamente.
 
           .col-md-2.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
@@ -105,7 +105,7 @@
               .tarjeta.jumbotron-15
                 .p-4
                   h5.text-center Silos de bolsa: 
-                  p Es la manera más rudimentaria y práctica para conservar alimento.
+                  p es la manera más rudimentaria y práctica para conservar el alimento.
 
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-7        
@@ -129,27 +129,27 @@
 
             .tarjeta.color-acento-botones.p-3(x="23.3%" y="24%" numero="1")
               .h5.mb-2 Fuente de energía:
-              p La melaza no sólo es una fuente rica en azúcares y minerales especialmente en potasio, sino que además funciona como saborizante y solidificante del bloque; otras fuentes de energía lo son harina de yuca, grano molido de maíz o sorgo.
+              p la melaza no sólo es una fuente rica en azúcares y minerales especialmente en potasio, sino que además funciona como saborizante y solidificante del bloque; otras fuentes de energía lo son harina de yuca, grano molido de maíz o sorgo.
 
             .tarjeta.color-acento-botones.p-3(x="17%" y="53.1%" numero="2")
               .h5.mb-2 Material fibroso:
-              p La fibra ayuda al proceso de solidificación y absorción de la humedad contenida en la melaza. 
+              p la fibra ayuda al proceso de solidificación y absorción de la humedad contenida en la melaza. 
 
             .tarjeta.color-acento-botones.p-3(x="35.2%" y="64.5%" numero="3")
               .h5.mb-2 Mezcla mineral:
-              p El suministro de la sal mineralizada provee junto con los otros componentes a nivel ruminal un suplemento más completo.
+              p el suministro de la sal mineralizada provee junto con los otros componentes a nivel ruminal un suplemento más completo.
 
             .tarjeta.color-acento-botones.p-3(x="50.5%" y="46%" numero="4")
               .h5.mb-2 Fuente de nitrógeno no proteico (NNP):
-              p Se puede usar la urea, al llegar este compuesto al rumen, libera amonio, el cual es un nutriente esencial para el crecimiento de las bacterias presentes en el rumen, pero no debe exceder del 10%. 
+              p se puede usar la urea, al llegar este compuesto al rumen, libera amonio, el cual es un nutriente esencial para el crecimiento de las bacterias presentes en el rumen, pero no debe exceder del 10%. 
 
             .tarjeta.color-acento-botones.p-3(x="70.5%" y="62.5%" numero="5")
               .h5.mb-2 Fuentes de proteína: 
-              p Se tienen las semillas enteras y harinas o tortas de algunas oleaginosas, como el algodón, maní y ajonjolí. Se pueden usar hojas y frutos de leguminosas.
+              p se tienen las semillas enteras y harinas o tortas de algunas oleaginosas, como el algodón, maní y ajonjolí. Se pueden usar hojas y frutos de leguminosas.
 
             .tarjeta.color-acento-botones.p-3(x="73.2%" y="18.5%" numero="6")
               .h5.mb-2 Agente ligante:
-              p Se necesita usualmente un agente aglutinante para endurecer el bloque, varios productos pueden ser utilizados; cemento, cal viva (óxido de calcio, CaO), el óxido de magnesio (MgO).
+              p se necesita usualmente un agente aglutinante para endurecer el bloque, varios productos pueden ser utilizados; cemento, cal viva (óxido de calcio, CaO), el óxido de magnesio (MgO).
 
 
         .col-lg-10.bg-color-1.px-5.py-2.mb-5

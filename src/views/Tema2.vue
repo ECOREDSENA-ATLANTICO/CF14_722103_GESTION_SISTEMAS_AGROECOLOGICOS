@@ -148,7 +148,7 @@
             p.mb-0 Las exigencias del consumo, exportación y globalización han mostrado la necesidad de reconvertir la ganadería en un sistema de producción de alta competitividad con una visión empresarial a largo plazo y con finalidad de satisfacer la demanda a nivel nacional e internacional. <br><br> Para la implementación de los componentes de las Buenas Prácticas ganaderas se debe realizar un registro de cada una de las actividades relacionadas con el sector ganadero; además de ello se debe contar con una planilla de verificación en la cual se debe llevar control de la actividad realizada; los temas a tratar se mencionan en el siguiente recurso:       
 
         .tarjeta.bg_grad-03.p-3.mb-5(data-aos="zoom-in-up")
-          SlyderA(tipo="b")
+          SlyderA.btn_abajos_2(tipo="b")
   
             .row.justify-content-center.align-items-star.p-3
               .col-md-12.mb-4.mb-md-0
@@ -186,13 +186,13 @@
                               span Área de animales enfermos.
                           li 
                             .lista-ol
-                              span Información publicitaria de las enfermedades de control.
+                              span.text Información publicitaria de las enfermedades de control.
                           li 
                             .lista-ol
-                              span Programa único de identificación de semovientes.
+                              span.text-small Programa único de identificación de semovientes.
                           li 
                             .lista-ol
-                              span Plan sanitario realizado por un profesional veterinario o a fines que incluya información.
+                              span.text-small Plan sanitario realizado por un profesional veterinario o a fines que incluya información de vacunación, verificación y diagnóstico si es necesario.
                           li 
                             .lista-ol
                               span Certificación de un profesional veterinario o a fines.
@@ -204,7 +204,7 @@
                     figure
                       img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_11.png', alt='Imagen Decorativa')
   
-            .row.justify-content-center.align-items-star.p-3
+            .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
                 h4.p-3 Suministro y calidad de agua 
                 p.p-3.mb-2 Para asegurar la calidad del agua es importante realizar por lo menos una vez al año un análisis donde se tenga convicción de que el agua es potable y apta para el consumo animal; los resultados se deben conservar por lo menos dos años, los tanques de almacenamiento deben estar siempre limpios por lo que es importante que los recipientes sean de fácil acceso y faciliten su limpieza, deben permanecer tapados y su capacidad de almacenamiento debe ser idónea para el abastecimiento de los animales. 
@@ -212,7 +212,7 @@
                 figure
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_15.png', alt='Imagen Decorativa')
   
-            .row.justify-content-center.align-items-star.p-3
+            .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
                 h4.p-3 Registros y documentación
                 p.p-3.mb-3 Se debe contar con un registro de todas las actividades llevadas a cabo y sus documentos de soporte, estos documentos se deben mantener en custodia por un periodo mínimo de dos años, al igual una ficha de cada semoviente con todos los eventos y guías sanitarias de movilización.  
@@ -220,7 +220,7 @@
                 figure
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_12.png', alt='Imagen Decorativa')
                   
-            .row.justify-content-center.align-items-star.p-3
+            .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
                 h4.p-3 Control de medicamentos veterinarios e insumos agropecuarios
                 .row
@@ -235,7 +235,7 @@
                 figure
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_16.png', alt='Imagen Decorativa')
 
-            .row.justify-content-center.align-items-star.p-3
+            .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
                 h4.p-3 Programa de manejo integrado de plagas (mip)
                 p.p-3.mb-3 Para el control de plagas se debe llevar una planilla en la que se evidencia ejecución de procedimientos utilizados y registro de los productos aplicados, también se debe llevar un control de clasificación de basuras, los residuos peligrosos deben tener una disposición especial teniendo en cuenta la reglamentación ambiental que se encuentra vigente y los residuos como el estiércol manejarlos con compostaje para minimizar el impacto. 
@@ -244,13 +244,13 @@
                 figure
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_13.png', alt='Imagen Decorativa')
 
-            .row.justify-content-center.align-items-star.p-3
+            .row.justify-content-center.align-items-center.p-3
               .col-md-12.mb-4.mb-md-0
                 h4.p-3.text-center Control de medicamentos veterinarios e insumos agropecuarios
                 figure
                   img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_36.svg', alt='Alimentos: Los productos de cosecha como lo son alimentos deben estar almacenados e identificados para que no constituyan un riesgo para la inocuidad. Medicamentos especiales: Los medicamentos especiales deben contar con recetario oficial de Comvezcol. Vacunas: Los productos biológicos vacunas y medicamentos que requieran refrigeración deben ser almacenados y transportados con su respectivo rotulado, deben mantener a temperatura recomendada por el laboratorio fabricante y llevar un registro de control de temperatura diario. Animales enfermos: Los animales tratados con enfermedades infectocontagiosas se deben aislar.')
             
-            .row.justify-content-center.align-items-star.p-3
+            .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
                 h4.p-3 Bienestar animal 
                 p.p-3.mb-3 Los animales deben de disponer de un manejo adecuado y en condiciones higiénicas que no afecten su salud, se debe evitar todo tipo de maltrato y estrés, se prohíben cualquier utensilio, elemento corto punzante o eléctricos que afecte la salud del animal, durante el ordeño evitar ruidos y gritos que pongan al animal incomodo o nervioso. 
@@ -259,7 +259,7 @@
                 figure
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_14.png', alt='Imagen Decorativa')
    
-            .row.justify-content-center.align-items-star.p-3
+            .row.justify-content-center.align-items-center.p-3
               .col-md-3.mb-4.mb-md-0
                 h4.p-3 Otras áreas 
                 p.p-3.mb-3 Cumplir con la certificación de acuerdo con el Plan de Ordenamiento Territorial (POT) y locativos. 

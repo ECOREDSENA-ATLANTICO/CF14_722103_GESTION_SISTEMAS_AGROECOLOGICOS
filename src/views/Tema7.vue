@@ -23,7 +23,7 @@
           
           .col-lg-12.mb-0.mb-lg-4(data-aos="fade-left")
             figure
-              img.w-100(src='@/assets/curso/images/tema7/img_2.jpg', alt='Muestra las Funciones de los componentes de la dieta: - Carbohidrato: energía para el cuerpo y cerebro y mantiene temperatura corporal. - Proteína: compone músculos, tejidos, enzimas, hormonas y los aminoácidos. - Minerales: regula la presión osmótica, formador de huesos y dientes se convierte en componente de las enzimas. - Vitaminas: regula la función del cuerpo. - Grasa: se convierte en energía, membrana celular y las hormonas.')
+              img.w-100(src='@/assets/curso/images/tema7/img_2.png', alt='Muestra las Funciones de los componentes de la dieta: - Carbohidrato: energía para el cuerpo y cerebro y mantiene temperatura corporal. - Proteína: compone músculos, tejidos, enzimas, hormonas y los aminoácidos. - Minerales: regula la presión osmótica, formador de huesos y dientes se convierte en componente de las enzimas. - Vitaminas: regula la función del cuerpo. - Grasa: se convierte en energía, membrana celular y las hormonas.')
 
         p Los requerimientos de cada uno de estos componentes varían de acuerdo con el  tamaño, raza, clima y por lo general los animales grandes necesitan altos requerimientos de mantenimiento más que las especies pequeñas; este mismo caso pasa con animales jóvenes, en la etapa de crecimiento consumen alimentos,  ganan peso por día, esto va muy relacionado con la dieta suministrada. 
         
@@ -31,7 +31,7 @@
           .tarjeta.tarjeta--blanca.p-4.col-12
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Tabla 4. 
-              span Componentes nutritivos en la alimentación de aves de corra
+              span Componentes nutritivos en la alimentación de aves de corral
           
           .tabla.col-12.text-center
             table
@@ -42,13 +42,13 @@
               tbody
                 tr
                   td.jumbotron-20 Proteína
-                  td.jumbotron-20 Vegetal: Grano de soya, torta de algodón, harina de alfalfa y leguminosas.
+                  td.jumbotron-20 Vegetal: grano de soya, torta de algodón, harina de alfalfa y leguminosas.
                 tr
                   td.jumbotron-20 Energía
-                  td.jumbotron-20 Maíz, sorgo, arroz, cebada, melaza, subproductos de molinera. harina de yuca, aceites y grasas vegetales y animales, harina de plátano, plantas gramíneas, bore, zapallo (ahuyama)
+                  td.jumbotron-20 Maíz, sorgo, arroz, cebada, melaza, subproductos de molinera. harina de yuca, aceites y grasas vegetales y animales, harina de plátano, plantas gramíneas, bore, zapallo (ahuyama).
                 tr
                   td.jumbotron-20 Suplementos
-                  td.jumbotron-20 Minerales
+                  td.jumbotron-20 Minerales.
 
 </template>
 

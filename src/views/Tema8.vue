@@ -9,7 +9,7 @@
                     
         .row.align-items-center.mb-5
           .col-lg-8(data-aos="fade-right")
-            p Las materias primas las encontramos en el medio ambiente pues brindan forraje durante toda la temporada del año como fuente de alimentación animal .las plantas Forrajeras utilizadas como materia prima es toda planta que puede cultivarse y consumida por los animales en pastoreo o suplementación, esta debe tener unas condiciones como palatabilidad, nutritiva, adaptable producción competitiva resistente y de fácil multiplicación entre las que tenemos hierbas, bejucos herbáceos y leñosos, arbustos y árboles la ventaja de estas son que tienen alto contenido de proteína en las semilla, hojas, tallos, etc.  Otra ventaja a mencionar      es que es la fijación de nitrógeno al suelo gracias al trabajo realizado por bacterias del género rhizobium.     
+            p Las materias primas las encontramos en el medio ambiente pues brindan forraje durante toda la temporada del año como fuente de alimentación animal. Las plantas Forrajeras utilizadas como materia prima es toda planta que puede cultivarse y consumida por los animales en pastoreo o suplementación, esta debe tener unas condiciones como palatabilidad, nutritiva, adaptable producción competitiva resistente y de fácil multiplicación entre las que tenemos hierbas, bejucos herbáceos y leñosos, arbustos y árboles la ventaja de estas son que tienen alto contenido de proteína en las semillas, hojas, tallos, etc. Otra ventaja por mencionar es que es la fijación de nitrógeno al suelo gracias al trabajo realizado por bacterias del género rhizobium.     
             p Estos pueden asociarse con gramíneas el manejo de estas pasturas exige el conocimiento por parte del productor pues la relación planta/animal debe tener en cuenta factores como cantidad de forraje por hectárea que es determinada por el encargado de la finca mediante aforos constantes de igual manera es necesario saber la composición de la pradera a elección, cantidad de animales por hectárea que puede sostener esa pradera y por último el tipo de pastoreo que se va utilizar con el fin de ofrecerle al animal un producto de excelente calidad y bajo todos los parámetros técnicos establecidos.
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             figure
@@ -22,7 +22,7 @@
                 figure
                   img.w-100(src='@/assets/curso/images/tema8/img_2.svg', alt='Imagen Decorativa')
               .col-lg-8.align-self-center.mb-4
-                p.m-3 Las gramíneas más utilizadas son Guinea, Angleton, Climacuna, Pangola, Sorgo forrajero, Maíz, Elefante, B. Brizantha C. V. Marandú, Acrina, B. Decumbes, Carimagua, Kudzú tropical, Acacia forrajera, Matarratón. Y para zonas ácidas      Carimagua, B. Humidicola     , llanera, B. Brizantha C. V. La Libertad, Acrina, B. Decumbes, Puntero, Gordura, Stylosanthes capitata, S. Humilis, S. Hamata, Desmodium spp., Desmodium hetericarpum spp ovalifolium, Centrosema pubescens, Centrosema acuatifolium C.V., Vichada, Kudzú tropical, Maní forrajero, B. Humidicola     , Pangola, Janeiro, Alfombra, Climacuna, Estrella, Braquipara, Kudzú tropical, Stylosanthes guianensis, Calopo.
+                p.m-3 Las gramíneas más utilizadas son Guinea, Angleton, Climacuna, Pangola, Sorgo forrajero, Maíz, Elefante, B. Brizantha C. V. Marandú, Acrina, B. Decumbes, Carimagua, Kudzú tropical, Acacia forrajera, Matarratón. Y para zonas ácidas Carimagua, B. Humidicola     , llanera, B. Brizantha C. V. La Libertad, Acrina, B. Decumbes, Puntero, Gordura, Stylosanthes capitata, S. Humilis, S. Hamata, Desmodium spp., Desmodium hetericarpum spp ovalifolium, Centrosema pubescens, Centrosema acuatifolium C.V., Vichada, Kudzú tropical, Maní forrajero, B. Humidicola, Pangola, Janeiro, Alfombra, Climacuna, Estrella, Braquipara, Kudzú tropical, Stylosanthes guianensis, Calopo.
 
 
         .bg--img_03
@@ -50,7 +50,7 @@
                     
                 .row(titulo="Pasto azul:")
                   .col-12
-                    p.mb-0 prospera muy bien de 2.000 A 3.100 m.s.n.m.  No soporta pastoreo pues tiene dificultades para reproducirse rápidamente es muy utilizado en asociaciones con leguminosas.
+                    p.mb-0 prospera muy bien de 2.000 A 3.100 m.s.n.m.  No soporta pastoreo pues tiene dificultades para reproducirse rápidamente, es muy utilizado en asociaciones con leguminosas.
                     
             .col-lg-6
               figure(data-aos="zoom-in")
@@ -69,11 +69,11 @@
               AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
                 .row(titulo="Guinea o india:")
                   .col-12
-                    p.mb-0 se adapta de 0 a 1.800 m.s.n.m., en suelos fértiles se adapta muy bien pero también puede resistir la sequía su crecimiento se caracteriza por matojos, tallos erectos, hojas largas, anchas, Es muy utilizado en corte, pastoreo y ensilaje. Puede producir 60 a 75 T/Ha/año.
+                    p.mb-0 se adapta de 0 a 1.800 m.s.n.m., en suelos fértiles se adapta muy bien pero también puede resistir la sequía, su crecimiento se caracteriza por matojos, tallos erectos, hojas largas, anchas, Es muy utilizado en corte, pastoreo y ensilaje. Puede producir 60 a 75 T/Ha/año.
 
                 .row(titulo="Braquiarias:")
                   .col-12
-                    p.mb-0 la familia de las braquiarias se adaptan de los 0 a 2.000 m.s.n.m., resisten quema, sequía, suelos ácidos y pobres Braquiara decumbes ,Braquiara humidicola, brizanta, dictyoneura y rusiziensis la primera es la más resistente. Su uso en pastoreo produce hasta 90 T/Ha/año.
+                    p.mb-0 la familia de las braquiarias se adaptan de los 0 a 2.000 m.s.n.m., resisten quema, sequía, suelos ácidos y pobres braquiara decumbes, braquiara humidicola, brizanta, dictyoneura y rusiziensis, La primera es la más resistente. Su uso en pastoreo produce hasta 90 T/Ha/año.
 
                 .row(titulo="Elefante:")
                   .col-12

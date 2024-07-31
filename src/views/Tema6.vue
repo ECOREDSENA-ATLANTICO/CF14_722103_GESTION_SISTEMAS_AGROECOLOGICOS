@@ -52,8 +52,26 @@
 
         .row.align-items-center.mb-5
           .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
-            figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_5.svg', alt='Muestra el componente formativo cada uno de los estómagos de los rumiantes: Retículo. Omaso. Abomaso o cuajar') 
+            ImagenInfografica.color-primario
+              template(v-slot:imagen)
+                figure
+                  img(src='@/assets/curso/images/tema6/img_5.png', alt='Muestra el componente formativo cada uno de los estómagos de los rumiantes: Retículo. Omaso. Abomaso o cuajar') 
+
+              .tarjeta.color-primario.p-3(x="68.5%" y="17.5%" numero="+")
+                .h5.mb-2 Omaso:
+                p este compartimiento se caracteriza por estar formado por diversos pliegues, por lo cual también se le conoce como librillo. El omaso de la vaca tiene como función absorber el exceso de agua para que el alimento pase a la siguiente estructura lo más concentrado posible y no se hayan diluido las enzimas que intervienen en la digestión.
+
+              .tarjeta.color-primario.p-3(x="80.5%" y="33.5%" numero="+")
+                .h5.mb-2 Retículo:
+                p esta cámara tiene la función de contener el alimento, transportando el que se ha digerido y es más líquido hasta el cuajar o abomaso de la vaca, mientras que los restos de mayor tamaño son llevados al rumen para ser regurgitados desde esta cámara de nuevo a la boca y así tenga lugar la rumia.
+
+              .tarjeta.color-primario.p-3(x="80.5%" y="85.5%" numero="+")
+                .h5.mb-2 Abomaso o cuajar:
+                p también denominado cuajar de la vaca, es el estómago propiamente dicho del animal. La acidez de esta zona es alta, por lo que aquí son digeridos todos los microorganismos que venían procesando el alimento, deteniéndose también la fermentación. Se produce ácido clorhídrico y pepsina, favoreciendo el procesamiento de las proteínas que han llegado a la zona, ocurriendo una digestión química de los alimentos.
+              
+              .tarjeta.color-primario.p-3(x="41%" y="75.5%" numero="+")
+                .h5.mb-2 Rumen:
+                p aquí se halla la población de microorganismos que inicia la fermentación del bolo alimenticio para poder transformarlo. Este es el compartimiento más grande de todos, pudiendo tener una capacidad de hasta 200 litros. Ciertos productos de la fermentación ya son absorbidos por las paredes del rumen y pasan al torrente sanguíneo. Otros compuestos que no se fermentan, se transforman en proteínas aprovechadas por el animal. El tiempo que permanece el alimento en esta zona puede variar, unas 12 horas para la fracción más líquida, y entre 20 a 48 horas para la porción fibrosa.
 
         .row.align-items-center.mb-4
           .col-lg-6(data-aos="fade-left")
@@ -77,9 +95,47 @@
              
         .row.align-items-center.mb-5
           .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
-            figure
-              img.img-t.m-auto(src='@/assets/curso/images/tema6/img_7.svg', alt='Muestra el componente formativo cada una de las partes del Sistema digestivo de las aves : Boca. Esofago. Buche. Estómago glandular o proventrículo. Molleja. Intestino delgado. Ciegos. Intestino grueso. Cloaca.') 
+            ImagenInfografica.color-primario
+              template(v-slot:imagen)
+                figure
+                  img(src='@/assets/curso/images/tema6/img_7.png', alt='Muestra el componente formativo cada una de las partes del Sistema digestivo de las aves : Boca. Esofago. Buche. Estómago glandular o proventrículo. Molleja. Intestino delgado. Ciegos. Intestino grueso. Cloaca.') 
 
+              .tarjeta.color-primario.p-3(x="61%" y="32%" numero="+")
+                .h5.mb-2 Molleja:
+                p es la falsa dentadura del ave, por medio de una red muscular desintegra en pequeñas partículas los piensos con ayuda de los jugos gástricos.
+
+              .tarjeta.color-primario.p-3(x="85.5%" y="41%" numero="+")
+                .h5.mb-2 Ciegos:
+                p retiene el material y luego lo expulsa.
+
+              .tarjeta.color-primario.p-3(x="84.5%" y="52.5%" numero="+")
+                .h5.mb-2 Cloaca:
+                p donde se encuentra el aparato genital, urinario y final del sistema digestivo.
+              
+              .tarjeta.color-primario.p-3(x="86%" y="64.5%" numero="+")
+                .h5.mb-2 Intestino grueso:
+                p conecta el material con la cloaca.
+              
+              .tarjeta.color-primario.p-3(x="77.5%" y="76%" numero="+")
+                .h5.mb-2 Intestino delgado:
+                p secreta jugos intestinales que desmineraliza las proteínas, desdobla azúcares y absorbe los nutrientes enviándolos al torrente sanguíneo.
+              
+              .tarjeta.color-primario.p-3(x="24%" y="74.5%" numero="+")
+                .h5.mb-2 Estómago glandular o proventrículo:
+                p se encuentra ubicado antes de la molleja y es la encargada de secretar jugo gástrico y enzimas.
+              
+              .tarjeta.color-primario.p-3(x="24%" y="50.5%" numero="+")
+                .h5.mb-2 Buche:
+                p es un agrandamiento del esófago, almacena y ablanda los alimentos por medio de unas enzimas.
+              
+              .tarjeta.color-primario.p-3(x="25%" y="36.5%" numero="+")
+                .h5.mb-2 Esófago:
+                p es un conducto o tubo para conducir el alimento y es muy dilatable.
+              
+              .tarjeta.color-primario.p-3(x="19.5%" y="24.5%" numero="+")
+                .h5.mb-2 Boca:
+                p esta carece de dientes y su función solo está encaminada a recoger alimentos por medio del pico, la lengua ayuda a pasar el alimento hacia el esófago y colaborar con la deglución. 
+                
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8(data-aos="fade-right")
             .tarjeta-avatar-b.mb-3

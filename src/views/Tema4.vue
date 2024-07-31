@@ -13,7 +13,7 @@
 
           p.mb-4 Una etapa productiva comprende un proceso de tiempo que se determina de acuerdo con la especie, involucra desde el nacimiento hasta que el animal está listo para el sacrificio. La comercialización del producto final involucra la cadena de transformación carne, leche y sus subproductos. Como la dinámica de los ciclos es diferente según la especie a trabajar, es importante conocer los tiempos de los ciclos productivos de cada especie. En el siguiente recurso se presenta los ciclos de cada especie: 
         
-        SlyderA(tipo="b")
+        SlyderA.btn_abajos_3(tipo="b")
           .tarjeta.row.bg_lightgreen.mb-5.m-0
             .col-md-5.slide4_1.slider4b
             .col-md-7.p-3.pb-5
