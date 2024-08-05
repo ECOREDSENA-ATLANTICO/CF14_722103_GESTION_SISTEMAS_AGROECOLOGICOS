@@ -382,7 +382,7 @@ export default {
         },
         {
           nombre: 'Liborio de Jesús Castañeda Valencia',
-          cargo: 'Desarrollo fullstack junior',
+          cargo: 'Desarrollo <em>full stack</em> junior',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
