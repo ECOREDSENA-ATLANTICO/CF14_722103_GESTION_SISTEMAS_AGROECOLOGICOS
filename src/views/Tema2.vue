@@ -243,7 +243,7 @@
                   
             .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
-                h4.p-3 Programa de manejo integrado de plagas (mip)
+                h4.p-3 Programa de manejo integrado de plagas (MIP)
                 p.p-3.mb-3 Para el control de plagas se debe llevar una planilla en la que se evidencia ejecución de procedimientos utilizados y registro de los productos aplicados, también se debe llevar un control de clasificación de basuras, los residuos peligrosos deben tener una disposición especial teniendo en cuenta la reglamentación ambiental que se encuentra vigente y los residuos como el estiércol manejarlos con compostaje para minimizar el impacto. 
                 
               .col-md-7
