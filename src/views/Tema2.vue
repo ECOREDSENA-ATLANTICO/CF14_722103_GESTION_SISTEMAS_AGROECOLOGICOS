@@ -214,14 +214,6 @@
   
             .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
-                h4.p-3 Registros y documentación
-                p.p-3.mb-3 Se debe contar con un registro de todas las actividades llevadas a cabo y sus documentos de soporte, estos documentos se deben mantener en custodia por un periodo mínimo de dos años, al igual una ficha de cada semoviente con todos los eventos y guías sanitarias de movilización.  
-              .col-md-7
-                figure
-                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_12.png', alt='Imagen Decorativa')
-                  
-            .row.justify-content-center.align-items-center.p-3
-              .col-md-5.mb-4.mb-md-0
                 h4.p-3 Control de medicamentos veterinarios e insumos agropecuarios
                 .row
                   .col-lg-4
@@ -236,6 +228,20 @@
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_16.png', alt='Imagen Decorativa')
 
             .row.justify-content-center.align-items-center.p-3
+              .col-md-12.mb-4.mb-md-0
+                h4.p-3.text-center Control de medicamentos veterinarios e insumos agropecuarios
+                figure
+                  img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_36.svg', alt='Alimentos: Los productos de cosecha como lo son alimentos deben estar almacenados e identificados para que no constituyan un riesgo para la inocuidad. Medicamentos especiales: Los medicamentos especiales deben contar con recetario oficial de Comvezcol. Vacunas: Los productos biológicos vacunas y medicamentos que requieran refrigeración deben ser almacenados y transportados con su respectivo rotulado, deben mantener a temperatura recomendada por el laboratorio fabricante y llevar un registro de control de temperatura diario. Animales enfermos: Los animales tratados con enfermedades infectocontagiosas se deben aislar.')
+            
+            .row.justify-content-center.align-items-center.p-3
+              .col-md-5.mb-4.mb-md-0
+                h4.p-3 Registros y documentación
+                p.p-3.mb-3 Se debe contar con un registro de todas las actividades llevadas a cabo y sus documentos de soporte, estos documentos se deben mantener en custodia por un periodo mínimo de dos años, al igual una ficha de cada semoviente con todos los eventos y guías sanitarias de movilización.  
+              .col-md-7
+                figure
+                  img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_12.png', alt='Imagen Decorativa')
+                  
+            .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
                 h4.p-3 Programa de manejo integrado de plagas (mip)
                 p.p-3.mb-3 Para el control de plagas se debe llevar una planilla en la que se evidencia ejecución de procedimientos utilizados y registro de los productos aplicados, también se debe llevar un control de clasificación de basuras, los residuos peligrosos deben tener una disposición especial teniendo en cuenta la reglamentación ambiental que se encuentra vigente y los residuos como el estiércol manejarlos con compostaje para minimizar el impacto. 
@@ -244,12 +250,6 @@
                 figure
                   img.w-75.img-t.m-auto(src='@/assets/curso/images/tema2/img_13.png', alt='Imagen Decorativa')
 
-            .row.justify-content-center.align-items-center.p-3
-              .col-md-12.mb-4.mb-md-0
-                h4.p-3.text-center Control de medicamentos veterinarios e insumos agropecuarios
-                figure
-                  img.w-100.img-t.m-auto(src='@/assets/curso/images/tema2/img_36.svg', alt='Alimentos: Los productos de cosecha como lo son alimentos deben estar almacenados e identificados para que no constituyan un riesgo para la inocuidad. Medicamentos especiales: Los medicamentos especiales deben contar con recetario oficial de Comvezcol. Vacunas: Los productos biológicos vacunas y medicamentos que requieran refrigeración deben ser almacenados y transportados con su respectivo rotulado, deben mantener a temperatura recomendada por el laboratorio fabricante y llevar un registro de control de temperatura diario. Animales enfermos: Los animales tratados con enfermedades infectocontagiosas se deben aislar.')
-            
             .row.justify-content-center.align-items-center.p-3
               .col-md-5.mb-4.mb-md-0
                 h4.p-3 Bienestar animal 
