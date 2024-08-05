@@ -165,7 +165,7 @@
                   .tarjeta.jumbotron-15.shadow-sm
                     .p-3
                       p 
-                        span.text-bold Administración de nutrientes
+                        span.text-bold Administración de nutrientes:
                         |   vitaminas (ej.: A, D y B), pequeñas cantidades de proteínas (ej.: harina de pescado), para proporcionar a los microorganismos ruminales aminoácidos y otros nutrientes esenciales. 
               .col-lg-7.mb-3
                 .tarjeta-avatar-b.mb-3
@@ -184,7 +184,7 @@
                   .tarjeta.jumbotron-15.shadow-sm
                     .p-4
                       p 
-                        span.text-bold Administración de fármacos para controlar
+                        span.text-bold Administración de fármacos para controlar:
                         |  distomatosis, garrapatas, endoparásitos, vacunas.
               
               .col-lg-4.mb-3            
@@ -204,7 +204,7 @@
                   .tarjeta.jumbotron-15.shadow-sm
                     .p-3
                       p 
-                        span.text-bold Administración de sustancias químicas: 
+                        span.text-bold Administración de sustancias químicas:
                         |  para controlar las moscas en las heces, esto es importante para la salud humana.
 
 

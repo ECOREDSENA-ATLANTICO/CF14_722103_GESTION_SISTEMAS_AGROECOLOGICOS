@@ -73,7 +73,7 @@
 
                 .row(titulo="Braquiarias:")
                   .col-12
-                    p.mb-0 la familia de las braquiarias se adaptan de los 0 a 2.000 m.s.n.m., resisten quema, sequía, suelos ácidos y pobres braquiara decumbes, braquiara humidicola, brizanta, dictyoneura y rusiziensis, La primera es la más resistente. Su uso en pastoreo produce hasta 90 T/Ha/año.
+                    p.mb-0 la familia de las braquiarias se adaptan de los 0 a 2.000 m.s.n.m., resisten quema, sequía, suelos ácidos y pobres braquiara decumbes, braquiara humidicola, brizanta, dictyoneura y rusiziensis. La primera es la más resistente. Su uso en pastoreo produce hasta 90 T/Ha/año.
 
                 .row(titulo="Elefante:")
                   .col-12

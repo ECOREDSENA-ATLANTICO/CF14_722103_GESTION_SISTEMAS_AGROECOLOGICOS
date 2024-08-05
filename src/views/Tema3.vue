@@ -19,7 +19,7 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/images/tema3/img_2.svg'  alt='Muestra el componente formativo las instalaciones y los equipos disponibles para el alojamiento de las especies pecuarias.')
+                img(src='@/assets/curso/images/tema3/img_2.png'  alt='Muestra el componente formativo las instalaciones y los equipos disponibles para el alojamiento de las especies pecuarias.')
 
             .tarjeta.color-acento-botones.p-3(x="12.5%" y="29.5%" numero="1")
               p Área de insumos de materiales (desinfectantes y plaguicidas).
@@ -54,14 +54,14 @@
             .tarjeta.color-acento-botones.p-3(x="12.5%" y="79.5%" numero="11")
               p Área de galpones.
 
-            .tarjeta.color-acento-botones.p-3(x="32.5%" y="81.5%" numero="12")
-              p Pasillo y rampas de movilización de animales.
-
-            .tarjeta.color-acento-botones.p-3(x="48%" y="79.5%" numero="13")
+            .tarjeta.color-acento-botones.p-3(x="30.5%" y="79.5%" numero="12")
               p Pediluvios en zonas de entrada a las diferentes áreas.
 
-            .tarjeta.color-acento-botones.p-3(x="66.5%" y="82%" numero="14")
+            .tarjeta.color-acento-botones.p-3(x="49.5%" y="81.5%" numero="13")
               p Área de almacenamiento y tratamiento de agua.
+
+            .tarjeta.color-acento-botones.p-3(x="67%" y="81.5%" numero="14")
+              p Pasillo y rampas de movilización de animales. 
 
             .tarjeta.color-acento-botones.p-3(x="83%" y="82%" numero="15")
               p Zonas de hospital o enfermería.

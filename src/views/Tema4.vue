@@ -64,22 +64,23 @@
                   tr
                     td.td_v1.tabla_sin_padding Engorde
                     td.td_v1.tabla_sin_padding 24 a 42 días en adelante de vida hasta el sacrificio.
-                    td.td_v1.tabla_sin_padding 90- 100 kilos peso para el sacrificio.
+                    td.td_v1.tabla_sin_padding 2 kilos de peso, para el sacrificio. 
                   tr
                     td.td_v1.tabla_sin_padding Iniciación
                     td.td_v1.tabla_sin_padding Día 1 a la 8ª. Semana de edad.
-                    td.td_v1.tabla_sin_padding(rowspan="4") Huevo comercial prepico: Se extiende desde el inicio de la postura hasta la semana 34.<br>
-                      | Fase aproximadamente se sostiene hasta la semana 54.<br>
-                      | Fase hasta 80 y 90 semanas. El alimento para esta etapa contiene más energía que los anteriores.<br>
+                    td.td_v1.tabla_sin_padding Huevo comercial prepico: Se extiende desde el inicio de la postura hasta la semana 34.
                   tr
                     td.td_v1.tabla_sin_padding Levante
                     td.td_v1.tabla_sin_padding Desde la 9ª. Semana hasta la 16 semana 16 de vida.
+                    td.td_v1.tabla_sin_padding Fase 1: Aproximadamente se sostiene hasta la semana 54.
                   tr
                     td.td_v1.tabla_sin_padding Pre postura
                     td.td_v1.tabla_sin_padding Desde la 17 semana hasta el primer huevo.
+                    td.td_v1.tabla_sin_padding Fase 2: hasta 80 y 90 semanas. El alimento para esta etapa contiene más energía que los anteriores. 
                   tr
                     td.td_v1.tabla_sin_padding Producción
                     td.td_v1.tabla_sin_padding Hasta la semana 90
+                    td.td_v1.tabla_sin_padding Fase 2: hasta 80 y 90 semanas. El alimento para esta etapa contiene más energía que los anteriores.  
 
           .tarjeta.row.bg_lightgreen.m-0
             .col-md-5.slide4_3.slider4b
